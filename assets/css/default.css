@@ -1,0 +1,78 @@
+@font-face {
+    font-family: NanumGothic;
+    src: url('/home/assets/fonts/NanumGothic.ttf');
+}
+*{
+/*
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+*/
+}
+input,textarea{
+  -webkit-user-select: auto;
+  -khtml-user-select: auto;
+  -moz-user-select: auto;
+  -o-user-select: auto;
+  user-select: auto;
+}
+a {
+	text-decoration: none;
+	font-family: NanumGothic,sans-serif;
+}
+
+body{
+	font-family: NanumGothic,sans-serif;
+	background-color:#DEDEDE;
+	width:100%;
+	height:920px;
+}
+/*preload images*/
+body:after{
+	visibility: hidden; overflow: hidden; width: 0; height: 0;
+	content:
+	url("../img/btn01_press.png")
+	url("../img/btn02_press.png")
+	url("../img/btn03_press.png")
+	url("../img/btn04_normal.jpg")
+/* 	url("../img/btn04_press.png") */
+	url("../img/btn05_press.png")
+	url("../img/btn21_press.png")
+
+}
+
+.header {
+	position:absolute;
+	background-color: #EFEEED;
+	width: 1182px;
+	height : 124px;
+	margin-left:-591px;
+	left:50%;
+}
+
+.main-container{
+	position:absolute;
+	background-color: #EFEEED;
+	width: 1182px;
+	height : 670px;
+	margin-left:-591px;
+	top:124px;
+	left:50%;
+}	
+
+.footer{
+	position:absolute;
+	background-color: #EFEEED;
+	width: 1182px;
+	height : 124px;
+	margin-left:-591px;
+	left:50%;
+	top:794px;
+}
+
+#board_table a{
+	color:black;
+}
+

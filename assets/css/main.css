@@ -1,0 +1,416 @@
+.top-main{
+	position:absolute;
+	width:1000px;
+	height:84px;
+	left:91px;
+	right:91px;
+	top:5px;
+}
+.top-main table{
+	width:100%;
+	height: 400px;
+}
+
+.top-main tr{
+	height:133px;  /* 50%*/
+}
+
+.top-main td{
+	width:20%;
+	height:133px;	/* 50%*/
+	text-align: center;
+}
+
+
+.top-main .block01{
+	width:133px;	/*100%*/
+	height:133px;	/*100%*/
+ 	background:url('../img/img01.png')  no-repeat;
+}
+
+.top-main .block02{
+	width:133px;	/*100%*/
+	height:133px;	/*100%*/
+	background:url('../img/img02.png') no-repeat;
+}
+.top-main .block03{
+	width:100%;	/*100%*/
+	height:133px;	/*100%*/	
+	background:url('../img/img03.png')  no-repeat;
+}
+.top-main .block04{
+	width:100%;
+	height:133px;
+	background:url('../img/bblank.png') 100% 100% no-repeat;
+}
+.top-main .block05{
+	width:133px;
+	height:133px;
+	background:url('../img/img05.png') 100% 100% no-repeat;
+}
+
+/* 메뉴 버튼 */
+.hrefBox {
+	display:block;
+	width:100%;
+	height:133px;		 /*100%*/
+}
+#button01{
+	width:100%;
+	height:133px;		/*100%*/
+	cursor: pointer;
+	background:url('../img/re_b01_normal.png') 100% 100% no-repeat;
+}
+#button01:hover,
+#button01:active{
+	width:100%;
+	height:133px;
+	cursor: pointer;
+	background-image:url('../img/re_b01_press.png');
+}
+
+#button02{
+	width:100%;
+	height:133px;
+	cursor: pointer;
+	background:url('../img/re_b02_normal.png') 100% 100% no-repeat;
+}
+#button02:hover,
+#button02:active{
+	background-image:url('../img/re_b02_press.png');
+}
+
+#button03{
+	width:100%;
+	height:133px;
+	cursor: pointer;
+	background:url('../img/re_b03_normal.png') 100% 100%  no-repeat;
+}
+#button03:hover,
+#button03:active{
+	background-image:url('../img/re_b03_press.png');
+}
+
+#button04{
+	width:133px;
+	height:133px;
+	background-color:white;
+	background-image:url('../img/re_btn04.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+/*
+#button04:hover,
+#button04:active{
+	background-image:url('../img/btn04_press.png');
+}
+*/
+
+
+#button05{
+	width:100%;
+	height:133px;
+	cursor: pointer;
+	background:url('../img/re_b05_normal.png') 100% 100% no-repeat;
+}
+#button05:hover,
+#button05:active{
+	background-image:url('../img/re_b05_press.png');
+}
+#button06{
+	width:100%;
+        height:133px;
+        cursor: pointer;
+        background:url('../img/facebook_normal.png') 100% 100% no-repeat;
+}
+#button06:hover,
+#button06:active{
+        background-image:url('../img/facebook_press.png');
+}
+/*block 을 버튼으로 교체할때*/
+#button07{
+        width:100%;
+        height:133px;
+        cursor: pointer;
+        background:url('../img/bvote_normal.png') 52% 52% no-repeat;
+}
+
+.btnview td {
+overflow:hidden;}
+/*메뉴버튼 마우스 오버 동작*/
+div#button02,div#button01,div#button03,div#button06,div#button05 {
+    -webkit-transform:scale(1);
+    -moz-transform:scale(1);
+    -ms-transform:scale(1);
+    -o-transform:scale(1);
+    transform:scale(1);
+    -webkit-transition:.3s;
+    -moz-transition:.3s;
+    -ms-transition:.3s;
+    -o-transition:.3s;
+    transition:.3s;
+}
+div#button02:hover,div#button01:hover,div#button03:hover ,div#button06:hover ,div#button05:hover  {
+    -webkit-transform:scale(1.4);
+    -moz-transform:scale(1.4);
+    -ms-transform:scale(1.4);
+    -o-transform:scale(1.4);
+    transform:scale(1.4);
+
+}
+
+/* 여기서부터 게시판*/
+.bottom-main{
+	position:absolute;
+	width:1000px;
+	height:84px;
+	left:91px;
+	right:91px;
+	top:440px;
+}
+
+.bottom-main table{
+	width:100%;
+	height: 200px;
+	border-spacing: 10px 0;
+}
+
+.bottom-main td{
+	width:30%;
+	margin-left:5px;
+	margin-right:5px;
+	text-align: center;
+}
+
+.bottom-main .menu-item{
+	float: left;
+	font-size: 14px;
+	margin-right: 10px;
+	cursor: pointer;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+
+}
+
+#menu01_1 .title:hover{
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+
+}
+
+#menu01_1 .title:hover + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu01_1.hover .title{
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+
+}
+
+#menu01_1.hover .title + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu01_2 .title:hover + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu01_2.hover .title + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+
+#menu01_3 .title:hover + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+#menu01_3.hover .title + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu02_1 .title:hover{
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+
+}
+#menu02_1 .title:hover + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+#menu02_1.hover .title + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu02_2 .title:hover + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+#menu02_2.hover .title + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+
+#menu03_1 .title:hover{
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+
+}
+#menu03_1 .title:hover + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu03_1.hover .title + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu03_1.hover .title + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu03_2 .title:hover + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+#menu03_2.hover .title + .bar{
+	opacity: 1;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+
+/* Menu bar */
+
+.menu01 .bar{
+	width:100%;
+	height:3px;
+	margin-top:5px;
+	background-color:#1273B9;
+	opacity: 0;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+.menu02 .bar{
+	width:100%;
+	height:3px;
+	margin-top:5px;
+	background-color:#FC6D4E;
+	opacity: 0;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+.menu03 .bar{
+	width:100%;
+	height:3px;
+	margin-top:5px;
+	background-color:#FDB452;
+	opacity: 0;
+	-o-transition:.3s;
+	-ms-transition:.3s;
+	-moz-transition:.3s;
+	-webkit-transition:.3s;
+	transition:.3s;
+}
+
+.bottom-main .more-item{
+	float: right;
+	font-size: 14px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+.bottom-main .more-item:hover{
+	
+}

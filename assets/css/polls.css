@@ -1,0 +1,65 @@
+#polls_cicname{
+	margin-left: 200px;
+}
+#polls_ciclist{
+	margin-left:100px;
+}
+#poll-container{
+	overflow-y:scroll;
+	height:500px;
+    width:400px;
+}
+#poll-container1{
+	overflow-y:scroll;
+	height:565px;
+    width:1000px;
+}
+.votesubmit {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #4e575c);
+  background-image: -moz-linear-gradient(top, #ffffff, #4e575c);
+  background-image: -ms-linear-gradient(top, #ffffff, #4e575c);
+  background-image: -o-linear-gradient(top, #ffffff, #4e575c);
+  background-image: linear-gradient(to bottom, #ffffff, #4e575c);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.votesubmit:hover {
+  background: #b3b3b3;
+  background-image: -webkit-linear-gradient(top, #b3b3b3, #2e2d2e);
+  background-image: -moz-linear-gradient(top, #b3b3b3, #2e2d2e);
+  background-image: -ms-linear-gradient(top, #b3b3b3, #2e2d2e);
+  background-image: -o-linear-gradient(top, #b3b3b3, #2e2d2e);
+  background-image: linear-gradient(to bottom, #b3b3b3, #2e2d2e);
+  text-decoration: none;
+}
+#polls_cicname_result{
+	margin-left: 300px;
+	overflow-y:scroll;
+	height: 510px;
+	width:610px;
+}
+.pollbarcell{
+	width: 300px;
+	background: #FFFFFF;
+}
+
+.pollbar{
+	height:15px;
+	background: #2a5db0;
+	border: 1px solid #000000;
+}
+
+#polls_cic_result{
+	margin-left: 100px;
+	overflow-y:scroll;
+	height: 510px;
+	width:1000px;
+}

@@ -1,0 +1,224 @@
+@charset "utf-8";
+body { font: .74em Dotum, Helvetica, Sans-Serif, Arial;  background-color : #dcdcdc; }
+h1 { font: normal 2.4em "dotum", Helvetica, Arial; color: #000; margin: 0 0 15px; }
+h2 { font: normal 1.8em "dotum", Helvetica, Arial; color: #000; margin: 0 0 15px; }
+h3 { font: normal 1.4em "dotum", Helvetica, Arial; font-weight: bold; margin: 0 -5px 20px; padding:5px; background-color : #69A8AA; color: #fff; }
+h4 { font: normal 1.2em "dotum", Helvetica, Arial; color: #000; margin: 0 0 4px; }
+p { margin: 0 0 15px; line-height: 1.6em; }
+a { outline: 0; color: #304D6F; text-decoration: none; }
+li { list-style: none; }
+li a, img { display: block; }
+img { outline: 0; border: 0; }
+ul {list-style: none; padding:0; margin:0; }
+#wrapper { width: 984px; margin: auto;  background-color : #fff; margin-top:-10px; margin-bottom:-10px; border-color:#bababa; border-width:1px; border-left-style:solid; border-right-style:solid; border-bottom-style:solid;}
+.clr { clear: both; }
+#top_set { float: left; width: 984px; height: 24px; background-color : #4682b4; }
+	#top_set li { font-size: 13px; padding: 3px 10px 0 0; float: right;}
+		#top_set li a{color: #fff;} 
+			#top_set li a.current, #top_set li a:hover { Text-decoration:underline; }	
+	#top_set li.han {font-size: 13px; padding: 3px 10px 0 0; float: right; }
+#logo { margin: 10px 0 20px -10px; padding: 75px 236px 0 30px; }
+	#logo a{ position:absolute; background: url(http://cic.hongik.ac.kr/images/logo_new.png) no-repeat; padding: 50px 236px 10px 100px; top:25px;}
+#menu { height: 20px; padding: 10px 0 5px 4px;}
+	#menu li { font-weight:bold; float: left; font-size: 1.0em; text-transform: uppercase; }
+		#menu li a { color: #fff; margin: 0 50px 0 0; }
+			#menu li a.current, #menu li a:hover { color: #1E90FF; }
+.content {background-color : #FAFAFA; padding: 0px 10px 5px 10px; }
+.menu_bar {background-color : #000; padding: 3px 10px 3px 10px; }
+#main { padding: 0 20px; }
+.col { float: left; width: 292px; margin: 0 30px 15px 0; }
+	.col.last { float: right; margin: 0;  }
+	.short { clear: both; padding: 0 0 15px 0; border-bottom: 1px solid #ddd; }
+	.case a { color: #000; font-weight: bold; } 
+	.article a { color: #000; }
+	.date { font-size: .90em; margin: 0 0 3px; }
+#footer { clear: both; padding: 15px 15px 10px; font-size: .9em; background-color : #FAFAFA; }
+	#footer a {  color: #000; margin: 0 10px 0 0; border-bottom: 1px dotted #444; padding: 0 0 1px; }
+	#links { float: right; }
+		#links a {  margin: 0 0 0 10px; }
+	#footer p { margin: 0 0 8px 75px; }
+#bottom_logo { float:left; padding: 18px 0 0;}
+	#bottom_logo a{ position:absolute; background: url(http://cic.hongik.ac.kr/images/bottom_logo.png) no-repeat; padding: 30px 30px; margin: -22px  0 20px; border-bottom: 0px;}
+.user { color: #fff; }
+.logout a{ background-color : #323C73; color: #fff; padding:1px; text-decoration:none !important; margin-top:-1px}
+
+/*로그인창*/
+.graybox{width:100%;height:100%;min-width:992px;position:absolute;left:0;top:0;background:#000;opacity:0.60;filter:alpha(opacity=60);z-index:50}
+.popwrap{position:absolute;left:50%;top:24%;margin-left:-139px;width:500px;z-index:60}
+.popwrap img{position:absolute;right:55px;top:45px;z-index:70}
+.pop{position:absolute;left:74%;top:20%;margin-left:-479px;margin-bottom:-300px;width:360px;z-index:60;}
+.top{font: normal 1.5em "batang", Helvetica, Arial; font-weight: bold; color:#444444; letter-spacing:-1px;margin-bottom:15px;}
+.login{position:absolute;background:url(http://cic.hongik.ac.kr/images/bg_pop.png) no-repeat;padding:50px 70px 20px;height:669px;z-index:60;}
+.login p{;margin-top:10px;margin-bottom:0px;font: normal 1.0em "dotum", Helvetica, Arial; font-weight: bold; color:#444444; letter-spacing:-1px;}
+.login_bts{float: right; position: relative; top: 20px; left:-10px;}
+.btn_login{width:100px;border:0 none;color:#000;font-size:14px;font-weight:bold;height:41px;overflow:visible;padding:3px 0 3px;text-align:center;background:url(http://cic.hongik.ac.kr/images/bg_btn_login.gif) no-repeat scroll 0 0 #fff;cursor:pointer;}
+.login_bts label{ position: relative; top: 1px; display: inline; font-size: 11px; color: #777; }
+.login_bottom {float: left; position: relative; font: normal 0.8em "dotum", Helvetica, Arial; color:#444444; letter-spacing:-1px; top:82px;}
+.login_bottom a{ font: normal 1.3em "dotum", Helvetica, Arial; color:#444444; letter-spacing:-1px; text-decoration:none;}
+.id_save{position: relative;top:3px;left:6px;}
+#id { margin-left:-0.5px; font-size:18px; height:20px; padding:8px; width:332px; border:1px #999999 solid;}
+#password { margin-left:-0.5px; font-size:18px; height:20px; padding:8px; width:332px;border:1px #999999 solid;}
+
+
+.sidebar {
+	width: 199px;
+	padding: 15px 0 0;
+	float: left;
+}
+#nav {
+height: 50px;
+width: 960px;
+position: relative;
+z-index: 999;
+}
+#container {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0px;
+}
+.sidebar h4  {
+	color: #333;
+	font-family: Lucida, "Lucida Sans", Geneva, Arial, sans-serif;
+	font-size: 16px;
+	text-transform:uppercase;
+	margin: 0;
+	line-height: 1.9em;
+	padding: 0px 0px 15px 5px;
+	font-weight: bold;
+	background: transparent url('http://cic.hongik.ac.kr/images/menu_bar.png') no-repeat scroll left bottom;
+}
+
+.sidebar h4 strong {
+	color: #55AAEA;
+	font-size: 12px;
+}
+.sidebar li ul.blocklist {
+	padding: 0;
+}
+.sidebar li ul.blocklist li {
+	padding: 0;
+	display: inline;
+}
+.sidebar li ul.blocklist li a {
+	display: block;
+	border-bottom:1px solid #e0e0e0;
+	padding: 8px 10px;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: Lucida,"Lucida Sans",Geneva,Arial,sans-serif;
+	font-size: 12px;
+	color: #444547;
+}
+.sidebar li ul.blocklist li a:hover {
+	color: #55AAEA;
+}
+
+/* Sliding Subnav Styles */
+
+.slidenav {
+    position: relative;
+    background: #000;
+	padding: 3px 0 3px 0;
+
+}
+
+.slidenav a {
+    color: #fff; margin: 0 30px 0 0;
+	font-weight:bold; float: left; font-size: 1.0em; text-transform: uppercase;
+	text-decoration: none;	   
+	position: relative;
+	left:4px;
+}
+
+.slidenav li a.current, .slidenav li a:hover { color: #1E90FF; }
+
+.slidenav ul, .slidenav ul li {
+    height: 3em;
+    line-height: 3em;
+    list-style: none;
+}
+
+.subnav ul li, .subnav ul, .slidenav-box {
+    height: 2em;
+    line-height: 2em;
+    list-style: none;
+}
+
+.slidenav ul a, .subnav ul a {
+    display: block;
+    padding: 0px 10px;
+}
+
+.slidenav ul li, .subnav ul li {
+    float: left;
+}
+
+.slidenav ul li ul {
+    display: none;
+    position: absolute;
+    top: 3em;
+    left: 0;
+}
+
+.slidenav ul li:hover ul {
+    display: block;
+}
+
+.subnav ul {
+    display: none;
+	font-size: 12px;
+}
+
+.subnav ul a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.slidenav-box {
+    margin: 5px 5px;
+    border: 0px solid #8c8c8c;
+    padding: 0px 5px;
+	background: #8c8c8c;
+	padding-left: -50px;
+}
+
+.inactive-box {
+	visibility: hidden;
+}
+
+/* End Sliding Subnav Styles */
+
+.main_text { float: left; width: 670px; height:auto; margin: 18px 0 0 40px;  }
+.main_text h3 {font: normal 1.2em "dotum", Helvetica, Arial; font-weight: bold; background-color : #fff; color: #000; }
+.ur_img { float:left; width: 110px; height:600px; }
+.ur_text { font-size:13px; line-height:1.2em; margin-top:10px; color:#666; }
+.font_right { float:right; }
+.style3 {color: #990000;}
+.style4 {color: #0033FF;}
+.style5 {color: #0000FF;}
+.color4 {color:#0066FF;}
+.font14 {font-size:14px; font-weight: bold;}
+.font13 {font-size:13px;}
+.color1 {color:#111111;}
+.style2 {color: #333333;}
+.style6 {color: #666;}
+.bold {font-weight: bold;}
+.style7 {color: #333;}
+.style8 {color: #3333CC;}
+.style9 {color:#FF3300;}
+
+table{margin-top:18px; width:100%; border:0 none; padding:0; border-top:1px solid #d4d4d4; font-size:11px; font-family:"돋움"; color:#666; background-color:#fff; }
+table th{ height:25px; font-weight:normal; text-align:center; background-color:#f9f9f9;}
+tr th{ border-bottom:1px solid #e5e5e5; }
+td{font-weight:normal; height:35px; border:0 none; border-bottom:1px solid #e5e5e5; text-align:center; }
+.mab {margin-bottom:350px;}
+.mab30 {margin-bottom:30px;}
+
+.mr20 {margin-top:20px;}
+.pd10 {padding:0 0 0 10px;}
+.pd20 {padding:0 0 0 20px;}
+.tline2{line-height:1.6em;}
+.tline{line-height:1.5em;}
+.pdb {margin-bottom:350px;}
+.left {text-align:left;}

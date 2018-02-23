@@ -1,0 +1,112 @@
+/* 가장 최상위 네비바 로그인, 회원가입, 컨택 */
+.high-top-nav-bar {
+	position:absolute;
+	width:1000px;
+	height:20px;
+	left:91px;
+	right:91px;
+	top:0px;
+}
+.high-top-nav-item {
+	float:right;
+	display: inline;
+}
+.high-top-nav-item{
+	cursor: pointer;
+	font-size: 0.7em;
+	margin-top:5px;
+	margin-left:10px;
+}
+
+.high-top-nav-item a{
+	color:black;
+}
+
+/* 로고 및 메뉴 네비 */
+.top-nav-bar {
+	position:absolute;
+	width:1000px;
+	height:84px;
+	left:91px;
+	right:91px;
+	top:20px;
+}
+
+.top-nav-item.logo {
+	position :absolute;	
+	left:0px;
+	top:0px;
+	width:239px;
+	height:38px;
+	background: url('../img/logo_01.png') 100% 100% no-repeat;
+	
+}
+
+.top-nav-bar-bg {
+	position:absolute;
+	width:100%;
+	height:24px;	
+	background-color: white;
+	top:64px;
+}
+
+#navbar {
+   position: absolute;
+   width:720px;
+   top: 20px;
+   left:280px;
+   margin: 0;
+   padding: 0;}
+#navbar li {
+   list-style: none;
+   float: left; 
+}
+#navbar li a {
+   display: block;
+   padding: 0px 20px;
+   font-size:14px;
+   text-transform: uppercase;
+   text-decoration: none; 
+   color: #979a99;
+ 
+	-webkit-transform:scale(1);
+    -moz-transform:scale(1);
+    -ms-transform:scale(1); 
+    -o-transform:scale(1);  
+    transform:scale(1);
+    -webkit-transition:.3s;
+    -moz-transition:.3s;
+    -ms-transition:.3s;
+    -o-transition:.3s;
+    transition:.3s;
+}
+#navbar li a:hover {
+   color: #0072bc; 
+-webkit-transform:scale(1.4);
+    -moz-transform:scale(1.4);
+    -ms-transform:scale(1.4);   
+    -o-transform:scale(1.4);
+    transform:scale(1.4);
+}
+#navbar li ul {
+   display: none;
+}
+#navbar li:hover ul, #navbar li.hover ul {
+   position: absolute;
+   display: inline;
+   left:-180px;
+   width: 1300px;
+   margin: 0px 0px 0px -120px;
+   padding: 10px 0px 12px 0px;
+}
+#navbar li:hover li, #navbar li.hover li {
+   float: left;
+}
+#navbar li:hover li a, #navbar li.hover li a {
+   color: #000; 
+   font-size:12px;
+   line-height: 20px;
+}
+#navbar li li a:hover {
+   color: #505764;    
+}

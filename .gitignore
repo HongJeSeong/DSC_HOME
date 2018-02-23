@@ -1,0 +1,5 @@
+#config fils
+sftp-config.json
+config/
+templates/community/upload/
+

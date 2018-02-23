@@ -1,0 +1,110 @@
+/*greeting 학과장 인사말 */
+
+.greeting-content{
+	position:absolute;
+	width:780px;
+	height:600px;
+}
+.greeting-img{
+	display: block;
+	width:500px;
+	height:100%;
+	background:url('../img/intro/robert_kim.jpg') no-repeat;
+	background-size:auto 100%;
+	margin:auto;
+}
+pre {
+	 width:100%;
+	 padding:20px;
+	 white-space: pre-wrap;       /* css-3 */
+	 white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	 white-space: -pre-wrap;      /* Opera 4-6 */
+	 white-space: -o-pre-wrap;    /* Opera 7 */
+	 word-wrap: break-word; 
+}
+
+.history-content{
+	position:absolute;
+	left:311px;
+	width:780px;
+	height:600px;
+}
+
+.history-content table{
+	margin-left:20px;
+	margin-top:40px;
+	width:100%; 
+	border:0 none; padding:0; border-top:1px solid #d4d4d4; font-size:11px; 
+	color:#666; background-color:#fff; 
+}
+.history-content table th{ 
+	height:25px; font-weight:normal; text-align:center; background-color:#f9f9f9;
+}
+.history-content tr th{ 
+	border-bottom:1px solid #e5e5e5; 
+}
+.history-content td{font-weight:normal; height:35px; border:0 none; border-bottom:1px solid #e5e5e5; text-align:center; }
+
+
+
+.intro-content{
+	position:absolute;
+	top:30px;
+	width:780px;
+	height:600px;
+}
+
+
+.procedure-content{
+	position:absolute;
+	width:780px;
+	height:600px;
+}
+
+.procedure-content table{
+	margin-left:20px;
+	margin-top:40px;
+	width:100%; 
+	border:0 none; padding:0; border-top:1px solid #d4d4d4; font-size:11px; 
+	color:#666; background-color:#fff; 
+}
+.procedure-content table th{ 
+	height:25px; font-weight:normal; text-align:center; background-color:#f9f9f9;
+}
+.procedure-content tr th{ 
+	border-bottom:1px solid #e5e5e5; 
+}
+.procedure-content td{font-weight:normal; height:35px; border:0 none; border-bottom:1px solid #e5e5e5; text-align:center; }
+
+
+
+
+.main_text { position:absolute;width: 670px; height:auto; margin-left:351px; font-size: 0.74em}
+.main_text h3 { font-weight: bold; color: #000; }
+.ur_img { float:left; width: 110px; height:600px; }
+.ur_text { font-size:13px; line-height:1.2em; margin-top:10px; color:#666; }
+.font_right { float:right; }
+.style3 {color: #990000;}
+.style4 {color: #0033FF;}
+.style5 {color: #0000FF;}
+.color4 {color:#0066FF;}
+.font14 {font-size:14px; font-weight: bold;}
+.font13 {font-size:13px;}
+.color1 {color:#111111;}
+.style2 {color: #333333;}
+.style6 {color: #666;}
+.bold {font-weight: bold;}
+.style7 {color: #333;}
+.style8 {color: #3333CC;}
+.style9 {color:#FF3300;}
+
+.mr20 {margin-top:20px;}
+.pd10 {padding:0 0 0 10px;}
+.pd20 {padding:0 0 0 20px;}
+.tline2{line-height:1.6em;}
+.tline{line-height:1.5em;}
+.pdb {margin-bottom:350px;}
+.left {text-align:left;}
+
+
+

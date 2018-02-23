@@ -1,0 +1,189 @@
+<?php
+/**
+		게시판별 좌측 메뉴 화면 출력
+		@package templates/common/meta.php
+		@filesource
+		@author GiPyeongLee <lkp0907@gmail.com>
+		@editor SeungwanJo	<wh7923@gmail.com>
+		@copyright 2015 Hongik University Computer Information Communication
+		@version [ 1.0.0 ]
+	**/
+class Side {
+	public static function render($type){
+		if($type=='intro'){
+					echo '<div class="side-menu">
+							<table border="0" cellpadding="0" cellspacing="0" style="">
+								<tr style="height:40px;">
+									<td colspan="3">
+										<span class="ko">학과소개</span>
+										<span class="side-en">Introduction</span>
+									</td>
+								</tr>
+								<tr id="side-menu-item-a" class="side-menu-item" onclick="document.location = \'/home/templates/introduce/greeting\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">학과장인사말</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-b" class="side-menu-item" onclick="document.location = \'/home/templates/introduce/history\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">학과연혁</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-c" class="side-menu-item" onclick="document.location = \'/home/templates/introduce/intro\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">학과소개</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-d" class="side-menu-item" onclick="document.location = \'/home/templates/introduce/goals\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">교육목표</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-e" class="side-menu-item" onclick="document.location = \'/home/templates/introduce/procedure\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">교육목표 수립 및 절차</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-f" class="side-menu-item" onclick="document.location = \'/home/templates/introduce/employment\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">취업분야 및 취업률</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+							</table>	
+						</div>';
+		}
+		else if($type=="curriculum"){
+			echo '<div class="side-menu">
+							<table border="0" cellpadding="0" cellspacing="0" style="">
+								<tr style="height:40px;">
+									<td colspan="3">
+										<span class="ko">교육과정</span>
+										<span class="side-en">Curriculum</span>
+									</td>
+								</tr>
+								<tr id="side-menu-item-a" class="side-menu-item" onclick="document.location = \'/home/templates/curriculum/curriculum\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">교과과정</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-b" class="side-menu-item" onclick="document.location = \'/home/templates/curriculum/courses\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">설계/대체 교과목</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-c" class="side-menu-item" onclick="document.location = \'/home/templates/curriculum/required\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">전공/인증필수</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-d" class="side-menu-item" onclick="document.location = \'/home/templates/curriculum/summary\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">전공 교과목개요</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-e" class="side-menu-item" onclick="document.location = \'/home/templates/curriculum/standard\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">공학인증 졸업기준</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-f" class="side-menu-item" onclick="document.location = \'/home/templates/curriculum/sysgraph\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">이수체계도</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								 <tr id="side-menu-item-g" class="side-menu-item" onclick="document.location = \'/home/assets/files/rules_2017.hwp\';">
+                                                                        <td class="side-menu-left"></td>
+                                                                        <td class="side-menu-middle">프로그램 이수내규(DownLink)</td>
+                                                                        <td class="side-menu-right">></td>
+                                                                        </a>
+                                                                </tr>
+
+							</table>	
+						</div>';
+		}
+		else if($type=="members"){
+			echo '<div class="side-menu">
+							<table border="0" cellpadding="0" cellspacing="0" style="">
+								<tr style="height:40px;">
+									<td colspan="3">
+										<span class="ko">구성원</span>
+										<span class="side-en">Members</span>
+									</td>
+								</tr>
+								<tr id="side-menu-item-a" class="side-menu-item" onclick="document.location = \'/home/templates/members/professor\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">교수 소개</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-b" class="side-menu-item" onclick="document.location = \'/home/templates/members/assistant\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">조교 소개</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-c" class="side-menu-item" onclick="document.location = \'/home/templates/members/schoolmember\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">학생회 소개</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+							</table>	
+						</div>';
+		}
+		else if($type=="community"){
+			echo '<div class="side-menu">
+							<table border="0" cellpadding="0" cellspacing="0" style="">
+								<tr style="height:40px;">
+									<td colspan="3">
+										<span class="ko">커뮤니티</span>
+										<span class="side-en">Community</span>
+									</td>
+								</tr>
+								<tr id="side-menu-item-a" class="side-menu-item" onclick="document.location = \'/home/templates/community/bbs?select=1\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">공지사항</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-b" class="side-menu-item" onclick="document.location = \'/home/templates/community/bbs?select=2\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">학과소식</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-c" class="side-menu-item" onclick="document.location = \'/home/templates/community/bbs?select=3\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">취업게시판</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-d" class="side-menu-item" onclick="document.location = \'/home/templates/community/bbs?select=4\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">졸업게시판</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+								<tr id="side-menu-item-e" class="side-menu-item" onclick="document.location = \'/home/templates/community/bbs?select=5\';">
+									<td class="side-menu-left"></td>
+									<td class="side-menu-middle">자료실</td>
+									<td class="side-menu-right">></td>
+									</a>
+								</tr>
+							</table>	
+						</div>';
+		}
+	}
+}

@@ -1,0 +1,83 @@
+<?php
+
+/*
+class Main extends View{
+	function __construct(){
+		$this->view = '<div class="main-container">
+					    <div class="top-main">
+					        <table border="0" cellpadding="0" cellspacing="0">
+					            <tr>
+					                <td><div class="block01"></div></td>
+					                <td><div id="button01"></div></td> <!--학생회-->
+					                <td><div class="block02"></div></td>
+					                <td ><div id="button02"></div></td> <!--교과과정-->
+					                <td><div class="block03"></div></td>
+					            </tr>
+					            <tr>
+					                <td><div id="button03"></div></td> <!--교수진-->
+					                <td><div class="block04"></div></td>
+					                <td><div id="button04"></div></td><!--갤러리-->
+					                <td><div class="block05"></div></td>
+					                <td><div id="button05"></div></td><!--클래스넷-->
+					            </tr>
+					        </table>
+					    </div>
+					    <div class="bottom-main">
+					        <table border="0" cellpadding="0" cellspacing="0">
+					            <tr style="height:10%">
+					                <td>
+					                    <div class="menu01">
+					                        <div id="menu01_1" class="menu-item">
+					                            <div class="title">학과공지</div>
+					                            <div class="bar"></div>
+					                        </div>
+					                        <div id="menu01_2" class="menu-item">
+					                            <div class="title">자유게시판</div>
+					                            <div class="bar"></div>
+					                        </div>
+					                        <div id="menu01_3" class="menu-item">
+					                            <div class="title">자료실</div>
+					                            <div class="bar"></div>
+					                        </div>
+					                        <div id="more" class="more-item">더보기</div>
+					                    </div>
+					                </td>
+					                <td>
+					                    <div class="menu02">
+					                        <div id="menu02_1" class="menu-item">
+					                            <div class="title">취업게시판</div>
+					                            <div class="bar"></div>
+					                        </div>
+					                        <div id="menu02_2" class="menu-item">
+					                            <div class="title">행사/공모전</div>
+					                            <div class="bar"></div>
+					                        </div>
+					                        <div id="more" class="more-item">더보기</div>
+					                    </div>
+					                </td>
+					                <td>
+					                    <div class="menu03">
+					                        <div id="menu03_1" class="menu-item">
+					                            <div class="title">News</div>
+					                            <div class="bar"></div>
+					                        </div>
+					                        <div id="menu03_2" class="menu-item">
+					                            <div class="title">FAQ</div>
+					                            <div class="bar"></div>
+					                        </div>
+					                        <div id="more" class="more-item">더보기</div>
+					                    </div>
+					                </td>
+					            </tr>
+					            <tr style="height:90%;background-color:white;">
+					                <td><div>data1</div></td>
+					                <td><div>data2</div></td>
+					                <td><div>data3</div></td>
+					            </tr>
+					        </table>
+					    </div>
+					</div>
+						';
+	}
+*/
+}

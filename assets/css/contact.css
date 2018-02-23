@@ -1,0 +1,44 @@
+.main-container .map-content{
+	position:absolute;
+	width:1000px;
+	height:400px;
+	left:91px;
+	right:91px;
+	top:0px;
+}
+.main-container .contact-content{
+	position:absolute;
+	width:1000px;
+	height:200px;
+	left:91px;
+	right:91px;
+	top:420px;
+}
+.main-container .map-table{
+    width:100%;
+    height:400px;
+}
+.main-container .contact-table{
+	width: 100%;
+	height:200px;
+	background-color: white;
+}
+
+.contact-item .bar{
+	width:60px;
+	height:3px;
+	margin-top:10px;
+	background-color:#73ABE1;
+}
+.contact-title{
+	color:#0072bc;
+	font-size:14px;
+}
+.kor-address{
+	color:#383d4c;
+	font-size:13px;
+}
+.eng-address{
+	font-size:12px;
+	color:#7f7f80;
+}

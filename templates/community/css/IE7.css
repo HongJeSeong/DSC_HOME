@@ -1,0 +1,13 @@
+#wrapper { width: 984px; margin: auto;  background-color : #fff; margin-top:-15px; margin-bottom:-10px; border-color:#bababa; border-width:1px; border-left-style:solid; border-right-style:solid;}
+
+
+
+#logo { margin: 10px 0 20px -10px; padding: 65px 0 0 0; }
+	#logo a{  background: url(http://cic.hongik.ac.kr/home/images/logo_new.png) no-repeat ; padding: 50px 236px 10px 100px; margin-left:-964px;}
+
+
+
+.login_bts{float: right; position: absolute; top: 220px; left:238px;}
+.login_bottom {float: left; position: relative; font: normal 0.8em "dotum", Helvetica, Arial; color:#444444; letter-spacing:-1px; top:62px; }
+
+#footer { padding: 8px 15px 10px; }

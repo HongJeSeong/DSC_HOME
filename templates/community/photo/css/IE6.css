@@ -1,0 +1,36 @@
+#wrapper { width: 984px; margin: auto;  margin-bottom:-9px; background-color : #fff; border-color:#bababa; border-width:1px; border-left-style:solid; border-right-style:solid; border-bottom-style:solid;}
+
+
+.slidenav a {
+    color: #fff; margin: 0 15px 0 0;
+	font-weight:bold; float: left; font-size: 1.0em; text-transform: uppercase;
+	text-decoration: none;	   
+	position: relative;
+	left:4px;
+}
+
+.slidenav-box {
+    margin: 5px 0px;
+    border: 0px solid #8c8c8c;
+    padding: 0px 5px;
+	background: #8c8c8c;
+	padding-left: -50px;
+}
+#logo { margin: 4px 0 4px -10px; padding: 65px 236px 0 30px; }
+#logo a{ position:absolute;background: url(http://cic.hongik.ac.kr/images/logo_new.png) no-repeat; padding: 37px 236px 10px 100px; margin-top:-65px;}
+
+#bottom_logo a{ position:absolute; background: url(http://cic.hongik.ac.kr/images/bottom_logo.png) no-repeat; padding: 25px 30px; margin: -26px 0 20px; border-bottom: 0px; }
+
+#footer { clear: both; padding: 10px 15px 9px; font-size: .9em; background-color : #FAFAFA; }
+
+.id_save{position: relative;top:3px;left:6px; margin-top:-21px;}
+
+.login_bottom {float: left; position: relative; font: normal 0.8em "dotum", Helvetica, Arial; color:#444444; letter-spacing:-1px; top:52px;width:180px;}
+
+.sidebar li ul.blocklist li a {
+	padding: 8px 9px;
+}
+#logo { margin: 10px 0 20px -10px; padding: 40px 236px 0 30px; }
+	#logo a{ position: absolute; background: url(http://cic.hongik.ac.kr/images/logo_new.png) no-repeat; padding: 50px 236px 10px 100px; top:90px;}
+
+body { font: .74em Dotum, Helvetica, Sans-Serif, Arial;  background-color : #dcdcdc; margin:0;}

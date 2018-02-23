@@ -1,0 +1,63 @@
+.vote_check{
+	margin-left: 450px;
+	margin-top: 100px;
+}
+.vote_check p{
+	margin-left: 40px;
+}
+
+.main-container2{
+	position:absolute;
+	background-color: #EFEEED;
+	width: 1182px;
+	height : 697px;
+	margin-left:-591px;
+	top:124px;
+	left:50%;
+}	
+
+.polls_cicname{
+	width: 415px;
+	height: 615px;
+	
+}
+
+.polls_ciclist{
+	width: 800px;
+	height: 615px;
+}
+
+.header {
+	position:absolute;
+	background-color: #EFEEED;
+	width: 1182px;
+	height : 124px;
+	margin-left:-591px;
+	left:50%;
+}
+
+.main-container{
+	position:absolute;
+	background-color: #EFEEED;
+	width: 1182px;
+	height : 670px;
+	margin-left:-591px;
+	top:124px;
+	left:50%;
+}	
+
+.footer{
+	position:absolute;
+	background-color: #EFEEED;
+	width: 1182px;
+	height : 124px;
+	margin-left:-591px;
+	left:50%;
+	top:820px;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+   }

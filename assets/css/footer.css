@@ -1,0 +1,57 @@
+.footer .content {
+	position:absolute;
+	width:1000px;
+	height:84px;
+	left:91px;
+	right:91px;
+}
+.footer .content .bar{
+	position:absolute;
+	width:100%;
+	height:2px;
+	background-color: #BDBEC3;
+}
+.footer .content .logo {
+	position: absolute;
+	width:455px;
+	height:60px;
+	float:left;
+	top:7px;
+	background:url("../img/logo_02.png") 100% 100% no-repeat;
+}
+.footer .content .menu .top {
+	margin-top:30px;
+}
+.footer .content .menu .top li{
+    float:right;
+    display: inline;
+    margin-left:10px;
+    font-size:14px;
+    cursor:pointer;
+}
+.footer .content .menu .top a{
+    color:black;
+}
+.footer .content .menu .top a:hover{
+	color:#979a99; 
+}
+
+.footer .content .menu .bottom{
+    position:absolute;
+    top:30px;
+    right:0px;
+}
+.footer .content .menu .bottom li{
+    float:right;
+    display: inline;
+    margin-left:10px;
+    font-size:14px;
+    cursor:pointer;
+}
+
+.footer .content .menu .bottom a{
+    color:black;
+}
+.footer .content .menu .bottom a:hover{
+	color:#979a99; 
+}
