@@ -46,7 +46,7 @@ window.onload =function () {
 	        <a href="">
                 <img src="templates/community/upload/world_IT_2018.jpg" style="width: 600px; height: 400px;">
                 <span>
-			WITC(world_IT_2018) Best Paper Award 수상
+			WITC(World_IT_Congress 2018) Best Paper Award 수상
                 </span>
                 </a>
 
