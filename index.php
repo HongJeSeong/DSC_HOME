@@ -28,11 +28,13 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 	<link rel="stylesheet" type="text/css" href="assets/css/coin-slider-styles.css">
 
 </style>
+<!--
 <script type="text/javascript">
 window.onload =function () {
  window.open("pop2.html",  "popupNo1", "width=522, height=696");
 }
 </script>
+-->
 </head>
 <body>
 	<?  Header::render(); ?>
@@ -46,69 +48,32 @@ window.onload =function () {
 		<span>
 			국제학술대회(ICACT 2018) Outstanding Paper Paper Award 수상
 		</span>
+		</a>
 		<a href="">
 		<img src="templates/community/upload/SIM2.png" style="width: 600px; height: 400px;">
 		<span>
 			국제학술대회(ICGHIT 2018) Best Paper Award 수상
 		</span>
+		</a>
 		<a href="">
 		<img src="templates/community/upload/Robert.png" style="width: 600px; height: 400px;">
 		<span>
 			4차 산업혁명 시대, SW품질이 중요하다
 		</span>
+		</a>
 		<a href="">
 		<img src="templates/community/upload/ICT.png" style="width: 600px; height: 400px;">
 		<span>
 			2017년 (사)ICT플랫폼학회 추계학술대회 우수논문상 수상
 		</span>
+		</a>
 		<a href="">
 		<img src="templates/community/upload/cic-sejong.png" style="width: 600px; height: 400px;">
 		<span>
 			세종시-컴퓨터정보통신공학과 정보보호 전문인력 양성 업무협약
 		</span>
-		<a href="">
-		<img src="templates/community/upload/hs_solar.png" style="width: 600px;height: 400px;">
-		<span>
-			홍익대학교 소프트웨어공학연구실 명품 세종시 선도
-		</span>
 		</a>
-		<a href="" >
-                <img src="templates/community/upload/KH_intro.jpg" style="width: 600px;height: 400px;">
-                <span>
-                        KH정보교육원 취업설명회
-                </span>
-                </a>
-
-		<a href="" >
-		<img src="templates/community/upload/army.png" style="width: 600px;height: 400px;">
-		<span>
-			NIPA-육군-홍대, 국방SW 개발능력 향상 협력
-		</span>
-		</a>
-		 <a href="" >
-                <img src="templates/community/upload/taiwan.jpg" style="width: 600px;height: 400px;">
-                <span>
-             		신재생에너지 통합 관리 모니터링을 위한 메타모델 기반의 데이터 상호운영 시스템
-                </span>
-                </a>
-                <a href="" >
-                <img src="templates/community/upload/UNCLAB.jpg" style="width: 600px;height: 400px;">
-                <span>
-                        대한전자공학회 하계학술대회 우수논문상 수상
-                </span>
-                </a>
-		 <a href="" >
-                <img src="templates/community/upload/UNCLAB2.jpg" style="width: 600px;height: 400px;">
-                <span>
-                        대한전자공학회 하계학술대회 우수논문상 수상
-                </span>
-                </a>
-		<a href="" >
-                <img src="templates/community/upload/jeongbo_selab_2017.png" style="width: 600px;height: 400px;">
-                <span>
-                        소프트웨어공학 소사이어티 2017 우수단편논문상
-                </span>
-                </a>
+		
 	</div>
 	</td>
 	<td>
