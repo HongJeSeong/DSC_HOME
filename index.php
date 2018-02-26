@@ -43,6 +43,13 @@ window.onload =function () {
 <table>
 	<tr><td>
 	<div id = 'coin-slider'>
+	        <a href="">
+                <img src="templates/community/upload/world_IT_2018.jpg" style="width: 600px; height: 400px;">
+                <span>
+			WITC(world_IT_2018) Best Paper Award 수상
+                </span>
+                </a>
+
 		<a href="">
 		<img src="templates/community/upload/SIM1.png" style="width: 600px; height: 400px;">
 		<span>
