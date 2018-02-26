@@ -44,12 +44,12 @@ window.onload =function () {
 		<a href="">
 		<img src="templates/community/upload/SIM1.png" style="width: 600px; height: 400px;">
 		<span>
-			국제학술대회(ICGHIT 2018) Best Paper Award 수상
+			국제학술대회(ICACT 2018) Outstanding Paper Paper Award 수상
 		</span>
 		<a href="">
 		<img src="templates/community/upload/SIM2.png" style="width: 600px; height: 400px;">
 		<span>
-			국제학술대회(ICACT 2018) Outstanding Paper Paper Award 수상
+			국제학술대회(ICGHIT 2018) Best Paper Award 수상
 		</span>
 		<a href="">
 		<img src="templates/community/upload/Robert.png" style="width: 600px; height: 400px;">
