@@ -2,7 +2,7 @@
  * 홈페이지 첫 화면
  @package Index.php
  @filesource
- @copyright 2015 Hongik University Computer Information Communication
+ @copyright 2018 Hongik University Department of Software and Communications Engineering
  @version [ 1.0.0 ]
  @editor AnHyeonSik   ok168@naver.com
  @editor HongJeSeong  howl78@naver.com
@@ -20,7 +20,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=1182, initial-scale=1">
-	<title>컴퓨터정보통신공학과</title>
+	<title>소프트웨어융합학과</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/default.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/header.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/footer.css">

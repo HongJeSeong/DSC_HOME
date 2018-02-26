@@ -10,7 +10,7 @@ $id = $_SESSION['session_id'];
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>졸업게시판 :: 컴퓨터정보통신공학과</title>
+	<title>졸업게시판 :: 소프트웨어융합학과</title>
 	<link rel="shortcut icon" href="../../images/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" href="./css/style.css" type="text/css" />
 	<!--[IF IE]><link rel="stylesheet" href="./css/IEstyle.css" type="text/css" /><![ENDIF]-->

@@ -10,7 +10,8 @@
 		@filesource
 		@author GiPyeongLee <lkp0907@gmail.com>
 		@editor SeungwanJo	<wh7923@gmail.com>
-		@copyright 2015 Hongik University Computer Information Communication
+		@editor JeSeongHong <howl78@naver.com>
+		@copyright 2018 Hongik University Department of Software and Communications Engineering
 		@version [ 1.0.0 ]
 	**/
 	class Meta {
@@ -23,7 +24,7 @@
 				<head>
 				    <meta charset="UTF-8">
 				    <meta name="viewport" content="width=1182, initial-scale=1">
-				    <title>컴퓨터정보통신공학과</title>
+				    <title>소프트웨어융합학과</title>
 				    <link rel="stylesheet" type="text/css" href="assets/css/default.css">
 				    <link rel="stylesheet" type="text/css" href="assets/css/header.css">
 				    <link rel="stylesheet" type="text/css" href="assets/css/footer.css">

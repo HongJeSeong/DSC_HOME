@@ -20,7 +20,7 @@ function publicKeyToHex($privatekey) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=1182, initial-scale=1">
-    <title>컴퓨터정보통신공학과</title>
+    <title>소프트웨어융합학과</title>
     <link rel="stylesheet" type="text/css" href="/home/assets/css/default.css">
     <link rel="stylesheet" type="text/css" href="/home/assets/css/header.css">
     <link rel="stylesheet" type="text/css" href="/home/assets/css/footer.css">
