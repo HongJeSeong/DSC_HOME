@@ -28,13 +28,13 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 	<link rel="stylesheet" type="text/css" href="assets/css/coin-slider-styles.css">
 
 </style>
-<!--
+
 <script type="text/javascript">
 window.onload =function () {
- window.open("pop2.html",  "popupNo1", "width=522, height=696");
+ window.open("pop3.html",  "popupNo1", "width=800, height=800, scrollbars=yes, toolbar=no, menubar=no, location=no");
 }
 </script>
--->
+
 </head>
 <body>
 	<?  Header::render(); ?>
