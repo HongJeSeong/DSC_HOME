@@ -31,8 +31,8 @@
 	right:91px;
 	top:20px;
 }
-
-.top-nav-item.logo {
+/* 구)컴퓨터정보통신공학과 포함된 로고 사용시*/
+.top-nav-item.logo { 
 	position :absolute;	
 	left:0px;
 	top:0px;
@@ -41,6 +41,20 @@
 	background: url('../img/logo_01.png') 100% 100% no-repeat;
 	
 }
+
+/* 소포트웨어융합과 로고만 사용시
+.top-nav-item.logo { 
+        position :absolute;
+        left:0px;
+        top:0px;
+        width:245px;
+        height:55px;
+        background: url('../img/logo_01_cic.png') 100% 100% no-repeat;
+
+}
+*/
+
+
 
 .top-nav-bar-bg {
 	position:absolute;

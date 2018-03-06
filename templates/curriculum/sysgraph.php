@@ -53,7 +53,7 @@
 	
 		<br>
 		<div class="underimg"><img id="sysimg" src="../../assets/files/systemgraph2_2018.png" width="690" height="auto" alt="이수체계도"></div>
-		<div class="upperimg"><img id="sysimg" src="../../assets/files/systemgraph_2017.png" width="690" height="auto">
+		<div class="upperimg"><img id="sysimg" src="../../assets/files/rules_2018.png" width="690" height="auto">
 </div>
 		<h3>학과추천이수체계도는 선후수관계는 아니나, 교과목을 이해하기 위해서 들으면 좋은 과목을 추천한 것입니다.</h3>
        <!-- <div class="ur_img"><img id="sysimg" src="../../assets/files/systemgraph2_2017.png" width="690" height="auto" alt="이수체계도"></div>

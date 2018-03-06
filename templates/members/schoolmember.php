@@ -50,7 +50,7 @@
 				<div id="memberchart" style="display: inline"><strong class="style9">[제 20대 학생회 조직도]</strong></div>
 			</div>
 			<br>
-			<div class="ur_img"><img id="sysimg" src="img/schoolmember(2017).jpg" width="690" height="auto" alt="학생회사진"></div>
+			<div class="ur_img"><img id="sysimg" src="img/schoolmember(2018).jpg" width="690" height="auto" alt="학생회사진"></div>
 		</div>
     </div>
     <?Side::render('members');?>
