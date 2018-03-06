@@ -31,7 +31,7 @@
 	right:91px;
 	top:20px;
 }
-/* 소프트웨어융합과과 로고만 사용시*/
+/* 소프트웨어융합과과 로고만 사용시
 .top-nav-item.logo { 
 	position :absolute;	
 	left:0px;
@@ -41,8 +41,12 @@
 	background: url('../img/logo_01.png') 100% 100% no-repeat;
 	
 }
-
-/* 구)컴퓨터정보통신공학과 포함된 로고 사용시
+*/
+/* 구)컴퓨터정보통신공학과 포함된 로고 사용시 
+ * 기존의
+ * #navbar top + 17px
+ * .top-nav-bar-bg top + 17px
+ * */
 .top-nav-item.logo { 
         position :absolute;
         left:0px;
@@ -52,7 +56,7 @@
         background: url('../img/logo_01_cic.png') 100% 100% no-repeat;
 
 }
-*/
+
 
 
 
@@ -61,13 +65,13 @@
 	width:100%;
 	height:24px;	
 	background-color: white;
-	top:64px;
+	top:81px;
 }
 
 #navbar {
    position: absolute;
    width:720px;
-   top: 20px;
+   top: 37px;
    left:280px;
    margin: 0;
    padding: 0;}
