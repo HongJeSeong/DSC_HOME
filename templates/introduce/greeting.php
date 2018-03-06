@@ -46,12 +46,10 @@
     <div class="greeting-content">
 		<div class="main_text">
 			<h3>학과장 인사말</h3>
-   <p><strong class="style9">안녕하세요 ?</br>홍익대학교 컴퓨터정보통신공학과 홈페이지 방문을 진심으로 환영합니다. </strong></p>
+   <p><strong class="style9">안녕하세요 ?</br>홍익대학교 소프트웨어융합학과 홈페이지 방문을 진심으로 환영합니다. </strong></p>
         <div style="width:100%;"><img src="../../assets/img/intro/Ahn_B_K.jpg" width="30%" height="30%" alt="사진"></div>
                 <div class="ur_text">
-                        <p class="HStyle0">&nbsp;&nbsp;사물 인터넷(Internet of Things: IoT), 인공지능(Artificial Intelligence: AI), 빅데이터(Big Data) 기술들이 타 산업과 융합되는 제 4차 산업혁명은 미래의 삶을 혁신적으로 변화시킬 것으로 예측되고 있습니다.  본 컴퓨터정보통
-
-신공학과<strong class="style4">(2018년부터 소프트웨어융합학과(Department of Software and Communications Engineering))</strong>에서는 이러한 혁명적인 산업 변화를 주도할 “<strong class="style9">실무형 인재, 융합형 인재, 창의적 인재 및 글로벌 인재</strong>” 양성을 교육목표로 하고 있습니다. </p> 
+                        <p class="HStyle0">&nbsp;&nbsp;사물 인터넷(Internet of Things: IoT), 인공지능(Artificial Intelligence: AI), 빅데이터(Big Data) 기술들이 타 산업과 융합되는 제 4차 산업혁명은 미래의 삶을 혁신적으로 변화시킬 것으로 예측되고 있습니다.  본 소프트웨어융합학과(Department of Software and Communications Engineering)에서는 이러한 혁명적인 산업 변화를 주도할 “<strong class="style9">실무형 인재, 융합형 인재, 창의적 인재 및 글로벌 인재</strong>” 양성을 교육목표로 하고 있습니다. </p> 
 
 <p calss="HStyle0">구체적으로 미래 초연결 사회의 기술 요소의 근간이 되는 소프트웨어와 네트워크 분야의 전문 지식과 응용 능력을 학생들에게 교육하여 양 분야의  전문 지식을 융합하여 활용할 수 있는 실무형 인재 양성교육, 이론적인 교육과 더불어 현실적이고 산업계 요구를 수용하는 교육을 통하여 전공 
 
@@ -67,7 +65,7 @@
 
 <p calss="HStyle0">감사 합니다. </p>
 
-            <p class="font_right">컴퓨터정보통신공학과  학과장  <span class="color1 font14">안 병 구</span></p>
+            <p class="font_right">소프트웨어융합학과  학과장  <span class="color1 font14">안 병 구</span></p>
                 </div>
  
 </div>

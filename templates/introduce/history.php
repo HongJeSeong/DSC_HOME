@@ -109,7 +109,7 @@
       <tr>
         <td class="num">학과명칭변경</td>
         <td><div align="left">소프트웨어융합학과<br>(Department of Software and Communications  Engineering)</div></td>
-        <td>2018 년<br>(예정)</td>
+        <td>2018 년</td>
       </tr>
     </tbody>
   </table>
