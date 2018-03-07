@@ -46,8 +46,8 @@
 			<h3>학생회소개</h3>
 
 			<div>
-				<div id="memberpic" style="display: inline"><strong class="style8">[제 20대 학생회 사진] &nbsp;&nbsp;&nbsp;</strong></div>
-				<div id="memberchart" style="display: inline"><strong class="style9">[제 20대 학생회 조직도]</strong></div>
+				<div id="memberpic" style="display: inline"><strong class="style8">[제 1대 학생회 사진] &nbsp;&nbsp;&nbsp;</strong></div>
+				<div id="memberchart" style="display: inline"><strong class="style9">[제 1대 학생회 조직도]</strong></div>
 			</div>
 			<br>
 			<div class="ur_img"><img id="sysimg" src="img/schoolmember(2018).jpg" width="690" height="auto" alt="학생회사진"></div>
@@ -75,7 +75,7 @@
 		$("#memberpic>strong").attr("class","style9");
 	});
 	$("#memberpic").bind("click", function() {
-		$("#sysimg").attr("src","img/schoolmember(2017).jpg");
+		$("#sysimg").attr("src","img/schoolmember(2018).jpg");
 		$("#memberchart>strong").attr("class","style9");
 		$("#memberpic>strong").attr("class","style8");
 	});
