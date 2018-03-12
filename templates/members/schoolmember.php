@@ -70,7 +70,7 @@
 	$("#side-menu-item-c").addClass("hover");
 
 	$("#memberchart").bind("click", function() {
-		$("#sysimg").attr("src","img/memberchart(2017).png");
+		$("#sysimg").attr("src","img/memberchart(2018).jpg");
 		$("#memberchart>strong").attr("class","style8");
 		$("#memberpic>strong").attr("class","style9");
 	});
