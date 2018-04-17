@@ -52,7 +52,7 @@
         </tr>
         <tr style="height:40px;">
             <td><span class="contact-title">Home Admin</span></td>
-            <td><span class="kor-address">hong@hongik.ac.kr</span></td>
+            <td><span class="kor-address">hong@selab.hongik.ac.kr</span></td>
         </tr>
 	   </table>
     </div>
