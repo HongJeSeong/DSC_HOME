@@ -43,6 +43,13 @@ window.onload =function () {
 <table>
 	<tr><td>
 	<div id = 'coin-slider'>
+		<a href="">
+                <img src="templates/community/upload/ICT_0622.jpg" style="width: 600px; height: 400px;">
+                <span>
+                        2018년 (사)ICT플랫폼학회 하계학술대회 우수논문상 수상
+                </span>
+                </a>
+
 	        <a href="">
                 <img src="templates/community/upload/world_IT_2018.jpg" style="width: 600px; height: 400px;">
                 <span>
