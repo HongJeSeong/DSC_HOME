@@ -18,7 +18,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 				position: absolute;
 				background-color: #EFEEED;
 				width: 1182px;
-				height: 4650px;  /*330px 추가 삭제 하면 됨*/
+				height: 4680px;  /*330px 추가 삭제 하면 됨*/
 				margin-left: -591px;
 				top: 124px;
 				left: 50%;
@@ -31,7 +31,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 				height: 124px;
 				margin-left: -591px;
 				left: 50%;
-				top: 4770px; /*330px 추가삭제하면됨 */
+				top: 4790px; 
 			}
 		</style>
 	</head>
