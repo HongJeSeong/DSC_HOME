@@ -19,7 +19,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/home/library/common.php'; // this is co
 			position:absolute;
 			background-color: #EFEEED;
 			width: 1182px;
-			height : 1220px; //720
+			height : 1256px; //720
 			margin-left:-591px;
 			top:124px;
 			left:50%;
@@ -32,7 +32,7 @@ include_once $_SERVER['DOCUMENT_ROOT'].'/home/library/common.php'; // this is co
 			height : 124px;  //124
 			margin-left:-591px;
 			left:50%;
-			top:1344px;
+			top:1373px;
 		}
 
 	</style>
