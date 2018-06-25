@@ -18,7 +18,7 @@
         position:absolute;
         background-color: #EFEEED;
         width: 1182px;
-        height : 2000px;
+        height : 2070px;
         margin-left:-591px;
         top:124px;
         left:50%;
@@ -31,7 +31,7 @@
         height : 124px;
         margin-left:-591px;
         left:50%;
-        top:2000px;
+        top:2190px;
 }
 
     </style>
