@@ -44,6 +44,12 @@ window.onload =function () {
 	<tr><td>
 	<div id = 'coin-slider'>
 		<a href="">
+		<img src="templates/community/upload/UNCLAB_2018.png" style="width: 600px; height: 400px;">
+		<span>
+			국제학술대회 (ICUFN 2018) Best Paper Award 수상
+		</span>
+		</a>
+		<a href="">
                 <img src="templates/community/upload/ICT_0622.jpg" style="width: 600px; height: 400px;">
                 <span>
                         2018년 (사)ICT플랫폼학회 하계학술대회 우수논문상 수상
@@ -79,12 +85,6 @@ window.onload =function () {
 		<img src="templates/community/upload/ICT.png" style="width: 600px; height: 400px;">
 		<span>
 			2017년 (사)ICT플랫폼학회 추계학술대회 우수논문상 수상
-		</span>
-		</a>
-		<a href="">
-		<img src="templates/community/upload/cic-sejong.png" style="width: 600px; height: 400px;">
-		<span>
-			세종시-컴퓨터정보통신공학과 정보보호 전문인력 양성 업무협약
 		</span>
 		</a>
 		
