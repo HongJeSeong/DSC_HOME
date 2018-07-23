@@ -31,7 +31,7 @@
         height : 124px;
         margin-left:-591px;
         left:50%;
-        top:2690px;
+        top:2770px;
 }
 
     </style>
