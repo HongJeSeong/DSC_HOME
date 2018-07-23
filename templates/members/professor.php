@@ -88,46 +88,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 							&nbsp;
 						</p>
 						<p class="mr20 color4 font13">
-							<strong>안홍영 교수</strong>
-						</p>
-						<table width="670" border="0" cellspacing="0" cellpadding="0">
-							<tbody>
-								<tr>
-									<th width="158" rowspan="8" scope="row"><img src="img/교수_안홍영.jpg" alt="안홍영 교수" width="138" height="176"></th>
-									<td width="97" height="33">담당과목</td>
-									<td width="407" height="25">데이타통신, 컴퓨터네트워크</td>
-								</tr>
-								<tr>
-									<td>전공분야</td>
-									<td height="40">데이타통신 및 컴퓨터네트워크(Data Communication &amp; Computer Network</td>
-								</tr>
-								<tr>
-									<td>최종학위</td>
-									<td height="35">University of Florida, Dept. of Electrical &amp; Computer Engineering, 공학박사</td>
-								</tr>
-								<tr>
-									<td>전공연구실</td>
-									<td height="25">차세대 네트워크 연구실(Next Generation Networks Lab)</td>
-								</tr>
-								<tr>
-									<td>교수연구실</td>
-									<td height="25">D403, Tel : 044-860-2583</td>
-								</tr>
-								<tr>
-									<td>이메일</td>
-									<td height="25"><a href="mailto:hyahn@hongik.ac.kr">hyahn@hongik.ac.kr</a><a href="mailto:hosung@hongik.ac.kr"></a></td>
-								</tr>
-								<tr>
-									<td height="18">홈페이지</td>
-									<td height="25">&nbsp;</td>
-								</tr>
-							</tbody>
-						</table>
-						<p class="mr05">
-							&nbsp;
-						</p>
-						<p class="mr20 color4 font13">
-							<strong>지인호 교수 (과학기술대학장)</strong>
+							<strong>지인호 교수 </strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -247,7 +208,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 							&nbsp;
 						</p>
 						<p class="mr20 color4 font13">
-							<strong>안병구 교수 (학과장, 산업기술연구소장)</strong>
+							<strong>안병구 교수 (학과장)</strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -288,7 +249,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 						</p>
 
 						<p class="mr20 color4 font13">
-							<strong>임찬숙 부교수 (전산부장)</strong>
+							<strong>임찬숙 부교수 (교학부처장)</strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -329,7 +290,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 						</p>
 
 						<p class="mr20 color4 font13">
-							<strong>김병서 부교수 (대학원 교학부장)</strong>
+							<strong>김병서 교수 (대학원 교학부장)</strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -369,7 +330,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 							&nbsp;
 						</p>
 						<p class="mr20 color4 font13">
-							<strong>황성운 부교수</strong>
+							<strong>황성운 교수</strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -492,7 +453,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 							&nbsp;
 						</p>
  <p class="mr20 color4 font13">
-                                                        <strong>유철희 교수(초빙교수)</strong>
+                                                        <strong>유철희 교수 (초빙교수)</strong>
                                                 </p>
                                                 <table width="670" border="0" cellspacing="0" cellpadding="0">
                                                         <tbody>
@@ -508,7 +469,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                         </tr>
                                                         <tr>
                                                                 <td>최종학위</td>
-                                                                <td height="25">공학박사</td>
+                                                                <td height="25">아주대학교, 공학석사</td>
                                                         </tr>
                                                         <tr>
                                                                 <td>전공연구실</td>
@@ -516,7 +477,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                         </tr>
                                                         <tr>
                                                                 <td>교수연구실</td>
-                                                                <td height="25"></td>
+                                                                <td height="25">D206-1, Tel:044-860-2622</td>
                                                         </tr>
                                                         <tr>
                                                                 <td>이메일</td>
@@ -566,6 +527,45 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                                 <tr>
                                                                         <td height="26">홈페이지</td>
                                                                         <td height="26">&nbsp;</td>
+                                                                </tr>
+                                                        </tbody>
+                                                </table>
+                                                <p class="mr05">
+                                                        &nbsp;
+                                                </p>
+<p class="mr20 color4 font13">
+                                                        <strong>안홍영 교수</strong>
+                                                </p>
+                                                <table width="670" border="0" cellspacing="0" cellpadding="0">
+                                                        <tbody>
+                                                                <tr>
+                                                                        <th width="158" rowspan="8" scope="row"><img src="img/교수_안홍영.jpg" alt="안홍영 교수" width="138" height="176"></th>
+                                                                        <td width="97" height="33">담당과목</td>
+                                                                        <td width="407" height="25">데이타통신, 컴퓨터네트워크</td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>전공분야</td>
+                                                                        <td height="40">데이타통신 및 컴퓨터네트워크(Data Communication &amp; Computer Network</td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>최종학위</td>
+                                                                        <td height="35">University of Florida, Dept. of Electrical &amp; Computer Engineering, 공학박사</td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>전공연구실</td>
+                                                                        <td height="25">차세대 네트워크 연구실(Next Generation Networks Lab)</td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>교수연구실</td>
+                                                                        <td height="25">D403, Tel : 044-860-2583</td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>이메일</td>
+                                                                        <td height="25"><a href="mailto:hyahn@hongik.ac.kr">hyahn@hongik.ac.kr</a><a href="mailto:hosung@hongik.ac.kr"></a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td height="18">홈페이지</td>
+<td height="25">&nbsp;</td>
                                                                 </tr>
                                                         </tbody>
                                                 </table>
