@@ -44,6 +44,13 @@ window.onload =function () {
 	<tr><td>
 	<div id = 'coin-slider'>
 		<a href="">
+                <img src="templates/community/upload/2018-07-17SW.png" style="width: 600px; height: 400px;">
+                <span>
+                     	KSC2017 SW구현 경진대회 대상[표창장]
+                </span>
+                </a>
+
+		<a href="">
 		<img src="templates/community/upload/UNCLAB_2018.png" style="width: 600px; height: 400px;">
 		<span>
 			국제학술대회 (ICUFN 2018) Best Paper Award 수상
@@ -79,12 +86,6 @@ window.onload =function () {
 		<img src="templates/community/upload/Robert.png" style="width: 600px; height: 400px;">
 		<span>
 			4차 산업혁명 시대, SW품질이 중요하다
-		</span>
-		</a>
-		<a href="">
-		<img src="templates/community/upload/ICT.png" style="width: 600px; height: 400px;">
-		<span>
-			2017년 (사)ICT플랫폼학회 추계학술대회 우수논문상 수상
 		</span>
 		</a>
 		
