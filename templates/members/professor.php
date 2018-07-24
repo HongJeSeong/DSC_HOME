@@ -469,7 +469,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                         </tr>
                                                         <tr>
                                                                 <td>최종학위</td>
-                                                                <td height="25">아주대학교, 공학석사</td>
+                                                                <td height="25">아주대학교, 공학박사</td>
                                                         </tr>
                                                         <tr>
                                                                 <td>전공연구실</td>
@@ -534,7 +534,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                         &nbsp;
                                                 </p>
 <p class="mr20 color4 font13">
-                                                        <strong>안홍영 교수</strong>
+                                                        <strong>안홍영 교수 (초빙교수)</strong>
                                                 </p>
                                                 <table width="670" border="0" cellspacing="0" cellpadding="0">
                                                         <tbody>
