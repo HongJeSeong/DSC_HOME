@@ -18,7 +18,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 				position: absolute;
 				background-color: #EFEEED;
 				width: 1182px;
-				height: 4680px;  /*330px 추가 삭제 하면 됨*/
+				height: 5030px;  /*330px 추가 삭제 하면 됨*/
 				margin-left: -591px;
 				top: 124px;
 				left: 50%;
@@ -31,7 +31,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 				height: 124px;
 				margin-left: -591px;
 				left: 50%;
-				top: 4790px; 
+				top: 5150px; 
 			}
 		</style>
 	</head>
@@ -116,7 +116,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 								</tr>
 								<tr>
 									<td>이메일</td>
-									<td height="25"><a href="mailto:ijee@hongik.ac.kr">ijee@hongik.ac.kr</a><a href="mailto:hosung@hongik.ac.kr"></a></td>
+									<td height="25"><a href="mailto:ijee@hongik.ac.kr">ijee@hongik.ac.kr</a></td>
 								</tr>
 								<tr>
 									<td height="18">홈페이지</td>
@@ -156,7 +156,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 								</tr>
 								<tr>
 									<td>이메일</td>
-									<td height="25"><a href="mailto:bob@hongik.ac.kr">bob@hongik.ac.kr</a><a href="mailto:hosung@hongik.ac.kr"></a></td>
+									<td height="25"><a href="mailto:bob@hongik.ac.kr">bob@hongik.ac.kr</a></td>
 								</tr>
 								<tr>
 									<td height="18">홈페이지</td>
@@ -196,7 +196,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 								</tr>
 								<tr>
 									<td>이메일</td>
-									<td height="25"><a href="mailto:bkjoo@hongik.ac.kr">bkjoo@hongik.ac.kr</a><a href="mailto:hosung@hongik.ac.kr"></a></td>
+									<td height="25"><a href="mailto:bkjoo@hongik.ac.kr">bkjoo@hongik.ac.kr</a></td>
 								</tr>
 								<tr>
 									<td height="18">홈페이지</td>
@@ -236,7 +236,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 								</tr>
 								<tr>
 									<td>이메일</td>
-									<td height="25"><a href="mailto:beongku@hongik.ac.kr">beongku@hongik.ac.kr</a><a href="mailto:hosung@hongik.ac.kr"></a></td>
+									<td height="25"><a href="mailto:beongku@hongik.ac.kr">beongku@hongik.ac.kr</a></td>
 								</tr>
 								<tr>
 									<td height="18">홈페이지</td>
@@ -277,7 +277,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 								</tr>
 								<tr>
 									<td>이메일</td>
-									<td height="25"><a href="mailto:chansooklim@hongik.ac.kr">chansooklim@hongik.ac.kr</a><a href="mailto:hosung@hongik.ac.kr"></a></td>
+									<td height="25"><a href="mailto:chansooklim@hongik.ac.kr">chansooklim@hongik.ac.kr</a></td>
 								</tr>
 								<tr>
 									<td height="18">홈페이지</td>
@@ -412,6 +412,49 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 							&nbsp;
 						</p>
 
+						   <p class="mr20 color4 font13">
+                                                        <strong>한정희 부교수</strong>
+                                                </p>
+                                                <table width="670" border="0" cellspacing="0" cellpadding="0">
+                                                        <tbody>
+                                                                <tr>
+                                                                        <th width="158" rowspan="8" scope="row"><img src="img/jhHan.jpg" alt="" width="138" height="176"></th>
+                                                                        <td width="97" height="29">담당과목</td>
+                                                                        <td width="407">창업과 비즈니스모델, 기술사업화와 지식재산활용, 기술마케팅</td>
+                                                                </tr>
+
+                                                                <tr>
+                                                                        <td>전공분야</td>
+                                                                        <td height="25">기술경영 (Technology and Management) , 기술사업화(Technology commercialization)</td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>최종학위</td>
+                                                                        <td height="25">서울대학교, 기술경영박사</td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>전공연구실</td>
+                                                                        <td height="25"><a href="" target="_black"></a></td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>교수연구실</td>
+                                                                        <td height="25">B306-2, Tel : 044-860-2085</td>
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>이메일</td>
+                                                                        <td height="25"><a href="mailto:hjh0037@hongik.ac.kr">hjh0037@hongik.ac.kr</a></td>
+                                                                </tr>
+								 <tr>
+                                                                        <td height="18">홈페이지</td>
+									<td height="25"><a href="" target="_black"></td>
+                                                                </tr>
+
+                                                        </tbody>
+                                                </table>
+                                                <p class="mr05">
+                                                        &nbsp;
+                                                </p>
+
+
 						<p class="mr20 color4 font13">
 							<strong>장호성 교수 (명예교수)</strong>
 						</p>
@@ -437,7 +480,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 								</tr>
 								<tr>
 									<td>교수연구실</td>
-									<td height="25">D301, Tel : 044 - 860 - 2591</td>
+									<td height="25">D301, Tel : 044-860-2591</td>
 								</tr>
 								<tr>
 									<td>이메일</td>
@@ -477,7 +520,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                         </tr>
                                                         <tr>
                                                                 <td>교수연구실</td>
-                                                                <td height="25">D206-1, Tel:044-860-2622</td>
+                                                                <td height="25">D206-1, Tel : 044-860-2622</td>
                                                         </tr>
                                                         <tr>
                                                                 <td>이메일</td>
@@ -518,11 +561,11 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                                 </tr>
                                                                 <tr>
                                                                         <td>교수연구실</td>
-                                                                        <td height="25">D206-1, Tel:044-860-2622</td>
+                                                                        <td height="25">D206-1, Tel : 044-860-2622</td>
                                                                 </tr>
                                                                 <tr>
                                                                         <td>이메일</td>
-                                                                        <td height="25"><a href="">ohbyeon@hongik.ac.kr</a></td>
+                                                                        <td height="25"><a href="mailto:chulhiyu@hanmail.net">ohbyeon@hongik.ac.kr</a></td>
                                                                 </tr>
                                                                 <tr>
                                                                         <td height="26">홈페이지</td>
@@ -561,7 +604,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                                 </tr>
                                                                 <tr>
                                                                         <td>이메일</td>
-                                                                        <td height="25"><a href="mailto:hyahn@hongik.ac.kr">hyahn@hongik.ac.kr</a><a href="mailto:hosung@hongik.ac.kr"></a></td>
+                                                                        <td height="25"><a href="mailto:hyahn@hongik.ac.kr">hyahn@hongik.ac.kr</a></td>
                                                                 </tr>
                                                                 <tr>
                                                                         <td height="18">홈페이지</td>
