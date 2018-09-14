@@ -44,7 +44,7 @@
     <div class="curriculum-content" >
     <div class="main_text">
 			<h3>이수체계도</h3>
-		<p><strong class="style9"><a href="../../assets/files/systemgraph.pptx">[이수체계표 다운로드]</a></strong></p>
+		<p><strong class="style9"><a href="../../assets/files/systemgraph.ppt">[이수체계표 다운로드]</a></strong></p>
 		<p><strong class="style9"><a href="../../assets/files/rules_2017.hwp">[프로그램 이수내규 다운로드]</a></strong></p>
 		<div>
 	<!--	<div id="underimg" style="display: inline"><strong class="style8">선후수관계 이수체계도 &nbsp;&nbsp;&nbsp;</strong></div>
