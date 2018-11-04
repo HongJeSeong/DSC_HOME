@@ -75,7 +75,9 @@
           <td align="center">&nbsp;</td>
           <td align="center">-</td>
           <td align="center">-</td>
-          <td rowspan="17">&nbsp;</td>
+          <td rowspan="17" align="left" valign="middle"><p>* 학기변경:</p>
+		<font style="font-size:11px">▶컴퓨터정보통신학개론</font><br>
+		<font style="font-size:11px">:1→2</font></td>
         </tr>
         <tr>
           <td height="20">영어</td>
@@ -92,9 +94,9 @@
           <td align="center">004004</td>
           <td align="center">1</td>
           <td align="center">1</td>
-          <td align="center">부학기</td>
-          <td align="center">1</td>
-          <td align="center">1</td>
+          <td align="center">&nbsp;</td>
+          <td align="center">-</td>
+          <td align="center">-</td>
         </tr>
         <tr>
           <td colspan="2" rowspan="2" align="center">일반교양</td>
@@ -118,12 +120,12 @@
         <tr>
           <td colspan="2" rowspan="1" align="center">핵심교양</td>
           <td height="20">공학의이해(7영역) 컴퓨터정보통신공학개론</td>
+		  <td align="center">&nbsp;</td>
+          <td align="center">-</td>
+          <td align="center">-</td>
 		  <td align="center">004176</td>
           <td align="center">3</td>
           <td align="center">3</td>
-		  <td align="center">-</td>
-          <td align="center">-</td>
-          <td align="center">-</td>
         </tr>
         <tr>
           <th rowspan="10" scope="row">MSC</th>
@@ -178,9 +180,9 @@
           <td align="center">012109</td>
           <td align="center">1</td>
           <td align="center">2</td>
-          <td align="center">부학기</td>
-          <td align="center">1</td>
-          <td align="center">2</td>
+          <td align="center">&nbsp;</td>
+          <td align="center">-</td>
+          <td align="center">-</td>
         </tr>
         <tr>
           <td height="20">대학물리(2)</td>
@@ -232,10 +234,10 @@
         <tr>
           <th height="20" colspan="4" scope="row">개설학점계</th>
           <td align="center">&nbsp;</td>
+          <td align="center">18</td>
           <td align="center">21</td>
-          <td align="center">24</td>
           <td align="center">&nbsp;</td>
-          <td align="center">27</td>
+          <td align="center">28</td>
           <td align="center">29</td>
           <td>&nbsp;</td>
         </tr>
@@ -380,7 +382,7 @@
           <th colspan="3" rowspan="6" scope="row"><p align="center">전공</p>
           <p align="center">선택</p></th>
           <td height="20">* 창의적 공학설계 입문 </td>
-          <td align="center">002415</td>
+          <td align="center">725843</td>
           <td align="center">2</td>
           <td align="center">2</td>
           <td align="center">부학기</td>
@@ -509,8 +511,10 @@
                   <font style="font-size:11px">→ 디자인패턴프로그래밍  및 실습</font><br><br>
                   <font style="font-size:11px">▶ 컴퓨터네트워크</font><br>
                   <font style="font-size:11px">→ 인터넷공학(2)</font><br><br>
-                  <font style="font-size:11px">▶ 오픈소스소프트웨어</font><br>
-                  <font style="font-size:11px">→ 오픈소스소프트웨어<br>시수변경(2 → 3)</font><br>
+                  <font style="font-size:11px">▶ 통신시스템실험</font><br>
+                  <font style="font-size:11px">→ 통신프로그래밍<br> 시수변경(4 → 3)</font><br><br>
+		  <font style="font-size:11px">▶ 오픈소스소프트웨어</font><br>
+		  <font style="font-size:11px">학점변경 (2 → 3)</font>
                   </td>
 
         </tr>
@@ -593,13 +597,13 @@
           <td align="center">3</td>
         </tr>
         <tr>
-          <td height="20">통신시스템실험</td>
+          <td height="20">통신프로그래밍</td>
           <td align="center">&nbsp;</td>
           <td align="center">-</td>
           <td align="center">-</td>
-          <td align="center">704823</td>
+          <td align="center">미정</td>
           <td align="center">3</td>
-          <td align="center">4</td>
+          <td align="center">3</td>
         </tr>
         <tr>
           <td height="20">네트워크실험</td>
@@ -616,7 +620,7 @@
           <td align="center">-</td>
           <td align="center">-</td>
           <td align="center">704833</td>
-          <td align="center">2</td>
+          <td align="center">3</td>
           <td align="center">3</td>
         </tr>
 		<tr>
@@ -634,8 +638,8 @@
           <td align="center">22</td>
           <td align="center">23</td>
           <td align="center">&nbsp;</td>
-          <td align="center">20</td>
-          <td align="center">23</td>
+          <td align="center">21</td>
+          <td align="center">22</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -651,10 +655,10 @@
         <tr>
           <th height="20" colspan="4" scope="row">이수학점한계</th>
           <td align="center">&nbsp;</td>
-          <td align="center">20</td>
+          <td align="center">19</td>
           <td align="center">&nbsp;</td>
           <td align="center">&nbsp;</td>
-          <td align="center">20</td>
+          <td align="center">19</td>
           <td align="center">&nbsp;</td>
           <td>&nbsp;</td>
         </tr>
@@ -690,8 +694,10 @@
           <td align="center">-</td>
           <td align="center">-</td>
           <td rowspan="11" align="left" valign="middle">
-		   <font style="font-size:11px">▶ 네트워크프로그래밍 및 실습</font><br>
-                  <font style="font-size:11px">→ 분산시스템프로그래밍</font><br>
+		  <font style="font-size:11px">▶ 종합설계</font><br>
+		  <font sty;e="font-size:11px">(학점변경 : 4 → 3)</font><br><br>
+		  <font style="font-size:11px">▶ 분산시스템프로그래밍</font><br>
+                  <font style="font-size:11px">→ 분산컴퓨팅및블록체인<br>(시수변경 : 4 → 3)</font>
 		  </td>
         </tr>
         <tr>
@@ -711,10 +717,10 @@
           <p align="center">선택</p></th> 
           <td height="20">종합설계(1)</td>
           <td align="center">704711</td>
-          <td align="center">4</td>
+          <td align="center">3</td>
           <td align="center">4</td>
           <td align="center">부학기</td>
-          <td align="center">4</td>
+          <td align="center">3</td>
           <td align="center">4</td>
         </tr>
         
@@ -764,13 +770,13 @@
           <td align="center">3</td>
         </tr>
 		<tr>
-          <td height="20">분산시스템프로그래밍</td>
+          <td height="20">분산컴퓨팅 및 블록체인</td>
           <td align="center">&nbsp;</td>
           <td align="center">-</td>
           <td align="center">-</td>
-          <td align="center">704829</td>
+          <td align="center">미정</td>
           <td align="center">3</td>
-          <td align="center">4</td>
+          <td align="center">3</td>
         </tr>
         <tr>
           <td height="20">무선통신망</td>
@@ -793,11 +799,11 @@
         <tr>
           <th height="20" colspan="3" scope="row">개설학점계</th>
           <td align="center">&nbsp;</td>
-          <td align="center">22</td>
+          <td align="center">21</td>
           <td align="center">23</td>
           <td align="center">&nbsp;</td>
-          <td align="center">19</td>
-          <td align="center">21</td>
+          <td align="center">18</td>
+          <td align="center">20</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
