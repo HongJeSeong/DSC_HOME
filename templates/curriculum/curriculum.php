@@ -697,7 +697,7 @@
 		  <font style="font-size:11px">▶ 종합설계</font><br>
 		  <font sty;e="font-size:11px">(학점변경 : 4 → 3)</font><br><br>
 		  <font style="font-size:11px">▶ 분산시스템프로그래밍</font><br>
-                  <font style="font-size:11px">→ 분산컴퓨팅및블록체인<br>(시수변경 : 4 → 3)</font>
+                  <font style="font-size:11px">→ 블록체인개론<br>(시수변경 : 4 → 3)</font>
 		  </td>
         </tr>
         <tr>
@@ -770,7 +770,7 @@
           <td align="center">3</td>
         </tr>
 		<tr>
-          <td height="20">분산컴퓨팅 및 블록체인</td>
+          <td height="20">블록체인개론</td>
           <td align="center">&nbsp;</td>
           <td align="center">-</td>
           <td align="center">-</td>

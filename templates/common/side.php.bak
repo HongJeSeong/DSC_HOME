@@ -103,7 +103,7 @@ class Side {
 									<td class="side-menu-right">></td>
 									</a>
 								</tr>
-								 <tr id="side-menu-item-g" class="side-menu-item" onclick="document.location = \'/home/templates/curriculum/download.php\';">
+								 <tr id="side-menu-item-g" class="side-menu-item" onclick="document.location = \'/home/assets/files/rules_2018.hwp\';">
                                                                         <td class="side-menu-left"></td>
                                                                         <td class="side-menu-middle">프로그램 이수내규(DownLink)</td>
                                                                         <td class="side-menu-right">></td>
