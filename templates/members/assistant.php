@@ -49,14 +49,14 @@
  			<p></p>
          	<table width="609" border="0" cellspacing="0" cellpadding="0" class="mab30">
               <tbody><tr>
-                <td width="96" rowspan="4" style="border-left:1px solid #e5e5e5;"><img src="img/assistant_hanhm.png" width="99" height="115"></td>
+                <td width="96" rowspan="4" style="border-left:1px solid #e5e5e5;"><img src="img/" width="99" height="115"></td>
                 <td width="96"> 직책</td>
                 <td height="30">학과조교</td>
               </tr>
               
               <tr>
                 <td>이름</td>
-                <td height="25">한현미</td>
+                <td height="25">정주현</td>
               </tr>
               <tr>
                 <td>근무처</td>
@@ -64,7 +64,7 @@
               </tr>
               <tr>
                 <td>이메일</td>
-                <td height="12"><a href="mailto:com01@hongik.ac.kr">vhall@hongik.ac.kr</a></td>
+                <td height="12"><a href="mailto:sky1669@hongik.ac.kr">sky1669@hongik.ac.kr</a></td>
               </tr>
 			  </tbody></table>
 
