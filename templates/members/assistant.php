@@ -49,7 +49,7 @@
  			<p></p>
          	<table width="609" border="0" cellspacing="0" cellpadding="0" class="mab30">
               <tbody><tr>
-                <td width="96" rowspan="4" style="border-left:1px solid #e5e5e5;"><img src="img/" width="99" height="115"></td>
+                <td width="96" rowspan="4" style="border-left:1px solid #e5e5e5;"><img src="img/Assistant_juhyunJung" width="99" height="115"></td>
                 <td width="96"> 직책</td>
                 <td height="30">학과조교</td>
               </tr>

@@ -48,10 +48,110 @@
 		<div id="ur_text">
 			<div id="dt" style="display: inline"><strong class="style9"><font size="2">[2015년 이전] &nbsp;&nbsp;&nbsp;</font></strong></div>
 			<div id="ut" style="display: inline"><strong class="style9"><font size="2">[2016년]&nbsp;&nbsp;&nbsp;</font></strong></div>
-			<div id="ct" style="display: inline"><strong class="style8"><font size="2">[2017년 이후]</font></strong></div>
- 			<br><br><font color="#FF0000" style="text-align:right">2016-1학기부터 적용</font>
+			<div id="ct" style="display: inline"><strong class="style9"><font size="2">[2017년]&nbsp;&nbsp;&nbsp;</font></strong></font></strong></div>
+			<div id="et" style="display: inline"><strong class="style8"><font size="2">[2019년 이후]</font></strong></div>
+                        <br><br><font color="#FF0000" style="text-align:right">2019-1학기부터 적용</font>
 
- <table id="cc" style="display:" width="673" border="0" cellspacing="0" cellpadding="0" class="mab30">
+<table id="ec" style="display:" width="673" border="0" cellspacing="0" cellpadding="0" class="mab30">
+                                                        <caption align="top" >
+                                                                <font size="3">&lt;컴퓨터정보통신공학 프로그램의 전공 교과과정과 설계학점 구성현황(2019년도부터 적용)&gt;</font><br><br>
+                                                                </caption>
+
+                                        <tbody>
+                                        <tr>
+
+                                                <th height="23" colspan="1" scope="col">교과목</th>
+                                                <th colspan="1" scope="col">이수구분</th>
+                                                                        <th colsapn="1" scope="col">설계학점</th>
+                                                                        <th colsapn="2" scope="col">설계교과목구분</th>
+                                                </tr>
+
+                                                                <tr>
+                                                                        <td>알고리즘및실습 <br>(구알고리즘)</td>
+                                                                        <td><div align="center">전필</div></td>
+                                                                        <td><div align="center">1</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>기초컴퓨터정보통신실험(디지털)</td>
+                                                                        <td><div align="center">전필</div></td>
+                                                                        <td><div align="center">1</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>종합설계(2)</td>
+                                                                        <td><div align="center">전필</div></td>
+                                                                        <td><div align="center">3</div></td>
+                                                                        <td><div align="center">종합설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>창의적공학설계입문</td>
+                                                                        <td><div align="center">전선</div></td>
+                                                                        <td><div align="center">2</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>디자인패턴프로그래밍 및 실습<br></td>
+                                                                        <td><div align="center">전선</div></td>
+                                                                        <td><div align="center">2</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>네트워크실험</td>
+                                                                        <td><div align="center">전선</div></td>
+                                                                        <td><div align="center">1</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>종합설계(1)</td>
+                                                                        <td><div align="center">전선</div></td>
+                                                                        <td><div align="center">3</div></td>
+                                                                        <td><div align="center">종합설계</div></td>
+ </tr>
+                                                                <tr>
+                                                                        <td>소프트웨어공학</td>
+                                                                        <td><div align="center">전선 </div></td>
+                                                                        <td><div align="center">1</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>컴퓨터보안</td>
+                                                                        <td><div align="center">전선</div></td>
+                                                                        <td><div align="center">1</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>데이타베이스및실습</td>
+                                                                        <td><div align="center">전선</div></td>
+                                                                        <td><div align="center">1</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>통신시스템실험<br>(구정보통신실험)</td>
+                                                                        <td><div align="center">전선</div></td>
+                                                                        <td><div align="center">1</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+                                                                <tr>
+                                                                        <td>오픈소스소프트웨어</td>
+                                                                        <td><div align="center">전선</div></td>
+                                                                        <td><div align="center">1</div></td>
+                                                                        <td><div align="center">기초설계</div></td>
+
+                                                                </tr>
+            </table>
+ <table id="cc" style="display:none" width="673" border="0" cellspacing="0" cellpadding="0" class="mab30">
                                                         <caption align="top" >
                                                                 <font size="3">&lt;컴퓨터정보통신공학 프로그램의 전공 교과과정과 설계학점 구성현황(2017년도부터 적용)&gt;</font><br><br>
                                                                 </caption>
@@ -397,28 +497,46 @@
 		$("#dc").attr("style", "display:");
 		$("#uc").attr("style", "display:none");
 		$("#cc").attr("style", "display:none");
+		$("#ec").attr("style", "display:none");
 		$("#dt>strong").attr("class","style8");
 		$("#ut>strong").attr("class","style9");
                 $("#ct>strong").attr("class","style9");
-
+		$("#et>strong").attr("class","style9");
 	});
 
 	$("#ut").bind("click", function() {
 		$("#uc").attr("style", "display:");
 		$("#dc").attr("style", "display:none");
 		$("#cc").attr("style", "display:none");
+                $("#ec").attr("style", "display:none");
 		$("#ut>strong").attr("class","style8");
 		$("#dt>strong").attr("class","style9");
                 $("#ct>strong").attr("class","style9");
+		$("#et>strong").attr("class","style9");
 	});
 	$("#ct").bind("click", function(){
 		$("#cc").attr("style","display:");
 		$("#dc").attr("style","display:none");
 		$("#uc").attr("style","display:none");
+                $("#ec").attr("style", "display:none");
 		$("#dt>strong").attr("class","style9");
 		$("#ut>strong").attr("class","style9");
 		$("#ct>strong").attr("class","style8");
+		$("#et>strong").attr("class","style9");
+
 	});
+        $("#et").bind("click", function(){
+                $("#cc").attr("style","display:none");
+                $("#dc").attr("style","display:none");
+                $("#uc").attr("style","display:none");
+                $("#ec").attr("style","display:");
+                $("#dt>strong").attr("class","style9");
+                $("#ut>strong").attr("class","style9");
+                $("#ct>strong").attr("class","style9");
+		$("#et>strong").attr("class","style8");
+
+        });
+
 </script>
 <!-- End Of Footer-->
 
