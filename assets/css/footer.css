@@ -14,10 +14,10 @@
 .footer .content .logo {
 	position: absolute;
 	width:455px;
-	height:60px;
+	height:63px;
 	float:left;
 	top:7px;
-	background:url("../img/logo_02.png") 100% 100% no-repeat;
+	background:url("../img/logos.png") 100% 100% no-repeat;
 }
 .footer .content .menu .top {
 	margin-top:30px;

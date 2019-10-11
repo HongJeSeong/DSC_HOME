@@ -28,10 +28,11 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 	<link rel="stylesheet" type="text/css" href="assets/css/coin-slider-styles.css">
 
 </style>
-<!---->
+
 <script type="text/javascript">
 window.onload =function () {
- window.open("pop4.html",  "popupNo1", "width=626, height=470, scrollbars=yes, toolbar=no, menubar=no, location=no");
+ window.open("pop5.html",  "popupNo1", "width=230, height=400, scrollbars=yes, toolbar=no, menubar=no, location=no");
+ window.open("pop4.html","popupNo2","width=650, height=400,scrollbars=yes,toolbar=no, menubar=no, location=no");
 }
 
 </script>
@@ -44,6 +45,13 @@ window.onload =function () {
 <table>
 	<tr><td>
 	<div id = 'coin-slider'>
+		<a href="">
+		<img src="templates/community/upload/2019ICT.jpg" style="width: 600px; height: 400px;">
+		<span>
+			2019년 (사)ICT플랫폼학회 하계학술대회 우수논문상 수상
+		</span>
+		<a>
+
 		<a href="">
                 <img src="templates/community/upload/2018-07-17SW.png" style="width: 600px; height: 400px;">
                 <span>
@@ -96,9 +104,9 @@ window.onload =function () {
 	<div style="width: 400">
 	<table class="btnview" border="0" cellpadding="0" cellspacing="0">
 		<tr>
-			<td ><div id="button02"><a href="http://cic.hongik.ac.kr/home/templates/members/professor" class="hrefBox"></a></div></td> <!--교수진-->
-			<td><div id="button07"><a href="http://cic.hongik.ac.kr/home/templates/vote/login.php" class="hrefBox"></a></div></td> <!--투표 or img-- > <!-- block3 button7 -->
-			<td><div id="button01"><a href="http://cic.hongik.ac.kr/home/templates/members/schoolmember" class="hrefBox"></a></div></td> <!--학생회-->
+			<td ><div id="button02"><a href="http://software.hongik.ac.kr/home/templates/members/professor" class="hrefBox"></a></div></td> <!--교수진-->
+			<td><div id="button07"><a href="http://software.hongik.ac.kr/home/templates/vote/login.php" class="hrefBox"></a></div></td> <!--투표 or img-- > <!-- block3 button7 -->
+			<td><div id="button01"><a href="http://software.hongik.ac.kr/home/templates/members/schoolmember" class="hrefBox"></a></div></td> <!--학생회-->
 		</tr>
 		
 		<tr>
@@ -107,7 +115,7 @@ window.onload =function () {
 		<td><div class="block02"></td><!--img3-->
 		</tr>
 		
-		<tr>       <td ><div id="button03"><a href="http://cic.hongik.ac.kr/home/templates/curriculum/curriculum" class="hrefBox"></a></div></td> <!--교과과정-->
+		<tr>       <td ><div id="button03"><a href="http://software.hongik.ac.kr/home/templates/curriculum/curriculum" class="hrefBox"></a></div></td> <!--교과과정-->
 			<td><div id="button06"><a target="_blank" href="https://www.facebook.com/DSChongik/" class="hrefBox"></a></div></td> <!--투표함 or facebook-->
 			<td><div id="button05"><a target="_blank" href="https://home.hongik.ac.kr/login/login.php" class="hrefBox"></a></div></td> <!--학생회-->
 		</tr>

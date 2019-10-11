@@ -44,7 +44,7 @@
     <div class="curriculum-content" >
     <div class="main_text">
 			<h3>이수체계도</h3>
-		<p><strong class="style9"><a href="../../assets/files/systemgraph.ppt">[이수체계표 다운로드]</a></strong></p>
+		<p><strong class="style9"><a href="../../assets/files/systemgraph_2019.ppt">[이수체계표 다운로드]</a></strong></p>
 		<p><strong class="style9"><a href="download.php">[프로그램 이수내규 다운로드]</a></strong></p>
 		<div>
 	<!--	<div id="underimg" style="display: inline"><strong class="style8">선후수관계 이수체계도 &nbsp;&nbsp;&nbsp;</strong></div>
@@ -52,8 +52,8 @@
 		</div>-->
 	
 		<br>
-		<div class="underimg"><img id="sysimg" src="../../assets/files/systemgraph_2018.JPG" width="690" height="auto" alt="이수체계도"></div>
-		<div class="upperimg"><img id="sysimg" src="../../assets/files/rules_2018.JPG" width="690" height="auto">
+		<div class="underimg"><img id="sysimg" src="../../assets/files/systemgraph_2019.jpg" width="690" height="auto" alt="이수체계도"></div>
+		<div class="upperimg"><img id="sysimg" src="../../assets/files/rules_2019.jpg" width="690" height="auto">
 </div>
 		<h3>학과추천이수체계도는 선후수관계는 아니나, 교과목을 이해하기 위해서 들으면 좋은 과목을 추천한 것입니다.</h3>
        <!-- <div class="ur_img"><img id="sysimg" src="../../assets/files/systemgraph2_2017.png" width="690" height="auto" alt="이수체계도"></div>

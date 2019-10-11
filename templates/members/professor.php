@@ -88,7 +88,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 							&nbsp;
 						</p>
 						<p class="mr20 color4 font13">
-							<strong>지인호 교수 </strong>
+							<strong>지인호 교수(대학원장) </strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -128,7 +128,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 							&nbsp;
 						</p>
 						<p class="mr20 color4 font13">
-							<strong>김영철 교수</strong>
+							<strong>김영철 교수(학과장) </strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -168,47 +168,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 							&nbsp;
 						</p>
 						<p class="mr20 color4 font13">
-							<strong>주복규 교수</strong>
-						</p>
-						<table width="670" border="0" cellspacing="0" cellpadding="0">
-							<tbody>
-								<tr>
-									<th width="158" rowspan="8" scope="row"><img src="img/부교수_주복규.jpg" alt="주복규 교수" width="138" height="176"></th>
-									<td width="97" height="37">담당과목</td>
-									<td width="407">자료구조 및 프로그래밍, 소프트웨어 공학</td>
-								</tr>
-
-								<tr>
-									<td>전공분야</td>
-									<td height="25">소프트웨어공학(Software Engineering)</td>
-								</tr>
-								<tr>
-									<td>최종학위</td>
-									<td height="25">University of Maryland, Dept. of Computer Science, 공학박사</td>
-								</tr>
-								<tr>
-									<td>전공연구실</td>
-									<td height="25">소프트웨어공학 연구실 (Software Engineering Lab.)</td>
-								</tr>
-								<tr>
-									<td>교수연구실</td>
-									<td height="25">D405, Tel : 044-860-2547</td>
-								</tr>
-								<tr>
-									<td>이메일</td>
-									<td height="25"><a href="mailto:bkjoo@hongik.ac.kr">bkjoo@hongik.ac.kr</a></td>
-								</tr>
-								<tr>
-									<td height="18">홈페이지</td>
-									<td height="25">&nbsp;</td>
-								</tr>
-							</tbody>
-						</table>
-						<p class="mr05">
-							&nbsp;
-						</p>
-						<p class="mr20 color4 font13">
-							<strong>안병구 교수 (학과장)</strong>
+							<strong>안병구 교수</strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -249,7 +209,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 						</p>
 
 						<p class="mr20 color4 font13">
-							<strong>임찬숙 부교수 (교학부처장)</strong>
+							<strong>임찬숙 부교수</strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -290,7 +250,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 						</p>
 
 						<p class="mr20 color4 font13">
-							<strong>김병서 교수 (대학원 교학부장)</strong>
+							<strong>김병서 교수 (기획관리부처장)</strong>
 						</p>
 						<table width="670" border="0" cellspacing="0" cellpadding="0">
 							<tbody>
@@ -615,6 +575,47 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
                                                 <p class="mr05">
                                                         &nbsp;
                                                 </p>
+						<p class="mr20 color4 font13">
+							<strong>주복규 교수(초빙교수)</strong>
+						</p>
+						<table width="670" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr>
+									<th width="158" rowspan="8" scope="row"><img src="img/부교수_주복규.jpg" alt="주복규 교수" width="138" height="176"></th>
+									<td width="97" height="37">담당과목</td>
+									<td width="407">자료구조 및 프로그래밍, 소프트웨어 공학</td>
+								</tr>
+
+								<tr>
+									<td>전공분야</td>
+									<td height="25">소프트웨어공학(Software Engineering)</td>
+								</tr>
+								<tr>
+									<td>최종학위</td>
+									<td height="25">University of Maryland, Dept. of Computer Science, 공학박사</td>
+								</tr>
+								<tr>
+									<td>전공연구실</td>
+									<td height="25">소프트웨어공학 연구실 (Software Engineering Lab.)</td>
+								</tr>
+								<tr>
+									<td>교수연구실</td>
+									<td height="25">D405, Tel : 044-860-2547</td>
+								</tr>
+								<tr>
+									<td>이메일</td>
+									<td height="25"><a href="mailto:bkjoo@hongik.ac.kr">bkjoo@hongik.ac.kr</a></td>
+								</tr>
+								<tr>
+									<td height="18">홈페이지</td>
+									<td height="25">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						<p class="mr05">
+							&nbsp;
+						</p>
+
 
            
 					</div>

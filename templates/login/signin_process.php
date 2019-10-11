@@ -35,7 +35,7 @@ $shpas = sha1((decrypt($privatekey, $_POST['password'])));
 
 
 if($id == ""){
-	echo "<script>alert('잘못된 접근입니다.');location.replace('https://cic.hongik.ac.kr/');</script>";
+	echo "<script>alert('잘못된 접근입니다.');location.replace('https://software.hongik.ac.kr/');</script>";
 	exit;
 }
 define("KEY_PUBLIC", "-----BEGIN PUBLIC KEY-----
@@ -87,7 +87,7 @@ else if($password!==$row[1]){
 }
 else {
 	$_SESSION['session_id'] = $id;
-	echo "<script>location.replace('http://cic.hongik.ac.kr');</script>";
+	echo "<script>location.replace('http://software.hongik.ac.kr');</script>";
 }
 error_reporting(E_ALL);
 ini_set("display_errors", 1);

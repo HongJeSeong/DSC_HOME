@@ -41,7 +41,7 @@ $.ajax({
 			  var html = "<table style='width:100%;height:auto;padding:10px;' cellpadding='5'>";
 				  for(i=0,len=data.length;i<len;i++){
 					  var row = "<tr height=20>\
-				  	<td style='width:75%;font-size:12px;text-align:left;'><a href=\"http://cic.hongik.ac.kr/home/templates/community/bbs_more?select=1&n="+data[i][4]+"\" style='color:black;'>"+data[i][0].substr(0,16)+"...</a></td>\
+				  	<td style='width:75%;font-size:12px;text-align:left;'><a href=\"http://software.hongik.ac.kr/home/templates/community/bbs_more?select=1&n="+data[i][4]+"\" style='color:black;'>"+data[i][0].substr(0,16)+"...</a></td>\
 				  	<td style='width:25%;font-size:12px;'>"+data[i][1]+"."+data[i][2]+"."+data[i][3]+"</td>\
 				  	</tr>";
 				  	html+=row;
@@ -63,7 +63,7 @@ $.ajax({
 			  var html = "<table style='width:100%;height:auto;padding:10px;' cellpadding='5'>";
 				  for(i=0,len=data.length;i<len;i++){
 					  var row = "<tr height=20>\
-				  	<td style='width:75%;font-size:12px;text-align:left;'><a href=\"http://cic.hongik.ac.kr/home/templates/community/bbs_more?select=3&n="+data[i][4]+"\" style='color:black;'>"+data[i][0].substr(0,16)+"...</a></td>\
+				  	<td style='width:75%;font-size:12px;text-align:left;'><a href=\"http://software.hongik.ac.kr/home/templates/community/bbs_more?select=3&n="+data[i][4]+"\" style='color:black;'>"+data[i][0].substr(0,16)+"...</a></td>\
 				  	<td style='width:25%;font-size:12px;'>"+data[i][1]+"."+data[i][2]+"."+data[i][3]+"</td>\
 				  	</tr>";
 				  	html+=row;

@@ -39,7 +39,7 @@ ul {list-style: none; padding:0; margin:0; }
 		#links a {  margin: 0 0 0 10px; }
 	#footer p { margin: 0 0 8px 75px; }
 #bottom_logo { float:left; padding: 18px 0 0;}
-	#bottom_logo a{ position:absolute; background: url(http://cic.hongik.ac.kr/home/images/bottom_logo.png) no-repeat; padding: 30px 30px; margin: -22px  0 20px; border-bottom: 0px;}
+	#bottom_logo a{ position:absolute; background: url(http://software.hongik.ac.kr/home/images/bottom_logo.png) no-repeat; padding: 30px 30px; margin: -22px  0 20px; border-bottom: 0px;}
 .user { color: #fff; }
 .logout a{ background-color : #323C73; color: #fff; padding:1px; text-decoration:none !important; margin-top:-1px}
 /*로그인창*/
@@ -48,10 +48,10 @@ ul {list-style: none; padding:0; margin:0; }
 .popwrap img{position:absolute;right:55px;top:45px;z-index:70}
 .pop{position:absolute;left:74%;top:20%;margin-left:-479px;margin-bottom:-300px;width:360px;z-index:60;}
 .top{font: normal 1.5em "batang", Helvetica, Arial; font-weight: bold; color:#444444; letter-spacing:-1px;margin-bottom:15px;}
-.login{position:absolute;background:url(http://cic.hongik.ac.kr/home/images/bg_pop.png) no-repeat;padding:50px 70px 20px;height:669px;z-index:60;}
+.login{position:absolute;background:url(http://software.hongik.ac.kr/home/images/bg_pop.png) no-repeat;padding:50px 70px 20px;height:669px;z-index:60;}
 .login p{;margin-top:10px;margin-bottom:0px;font: normal 1.0em "dotum", Helvetica, Arial; font-weight: bold; color:#444444; letter-spacing:-1px;}
 .login_bts{float: right; position: relative; top: 20px; left:-10px;}
-.btn_login{width:100px;border:0 none;color:#000;font-size:14px;font-weight:bold;height:41px;overflow:visible;padding:3px 0 3px;text-align:center;background:url(http://cic.hongik.ac.kr/home/images/bg_btn_login.gif) no-repeat scroll 0 0 #fff;cursor:pointer;}
+.btn_login{width:100px;border:0 none;color:#000;font-size:14px;font-weight:bold;height:41px;overflow:visible;padding:3px 0 3px;text-align:center;background:url(http://software.hongik.ac.kr/home/images/bg_btn_login.gif) no-repeat scroll 0 0 #fff;cursor:pointer;}
 .login_bts label{ position: relative; top: 1px; display: inline; font-size: 11px; color: #777; }
 .login_bottom {float: left; position: relative; font: normal 0.8em "dotum", Helvetica, Arial; color:#444444; letter-spacing:-1px; top:82px;}
 .login_bottom a{ font: normal 1.3em "dotum", Helvetica, Arial; color:#444444; letter-spacing:-1px; text-decoration:none;}
@@ -85,7 +85,7 @@ z-index: 999;
 	line-height: 1.9em;
 	padding: 0px 0px 15px 5px;
 	font-weight: bold;
-	background: transparent url('http://cic.hongik.ac.kr/home/images/menu_bar.png') no-repeat scroll left bottom;
+	background: transparent url('http://software.hongik.ac.kr/home/images/menu_bar.png') no-repeat scroll left bottom;
 }
 
 .sidebar h4 strong {

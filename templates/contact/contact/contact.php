@@ -82,7 +82,7 @@
 
 <script src="/home/assets/vendor/jquery-1.11.3.min.js"></script>
 <script src="/home/assets/js/header.js"></script>
-<script type="text/javascript" src="http://openapi.map.naver.com/openapi/v3/maps.js?clientId=OY8jXpIwOgpAXqgWZyZ9"></script>
+<script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=2dmik8rinr"></script>
 <script src="/home/assets/js/contact.js"></script>
 
 <!-- End Of Footer-->
