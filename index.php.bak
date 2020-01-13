@@ -32,7 +32,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/home/library/common.php';
 <script type="text/javascript">
 window.onload =function () {
  window.open("pop5.html",  "popupNo1", "width=230, height=400, scrollbars=yes, toolbar=no, menubar=no, location=no");
- window.open("pop4.html","popupNo2","width=670, height=280,scrollbars=yes,toolbar=no, menubar=no, location=no");
+ window.open("pop4.html","popupNo2","width=650, height=400,scrollbars=yes,toolbar=no, menubar=no, location=no");
 }
 
 </script>
@@ -45,13 +45,6 @@ window.onload =function () {
 <table>
 	<tr><td>
 	<div id = 'coin-slider'>
-                <a href="">
-                <img src="templates/community/upload/2019_ICT_BlockChain2.jpg" style="width: 600px; height: 400px;">
-                <span>
-                        2019년 세종지역 ICT/SW 재학생 역량 강화 교육 수료식
-                </span>
-                <a>
-
 		<a href="">
 		<img src="templates/community/upload/2019ICT.jpg" style="width: 600px; height: 400px;">
 		<span>
@@ -98,13 +91,12 @@ window.onload =function () {
 			국제학술대회(ICGHIT 2018) Best Paper Award 수상
 		</span>
 		</a>
-
-
-
-
-
-
-
+		<a href="">
+		<img src="templates/community/upload/Robert.png" style="width: 600px; height: 400px;">
+		<span>
+			4차 산업혁명 시대, SW품질이 중요하다
+		</span>
+		</a>
 		
 	</div>
 	</td>
@@ -125,7 +117,7 @@ window.onload =function () {
 		
 		<tr>       <td ><div id="button03"><a href="http://software.hongik.ac.kr/home/templates/curriculum/curriculum" class="hrefBox"></a></div></td> <!--교과과정-->
 			<td><div id="button06"><a target="_blank" href="https://www.facebook.com/DSChongik/" class="hrefBox"></a></div></td> <!--투표함 or facebook-->
-			<td><div id="button05"><a target="_blank" href="https://home.hongik.ac.kr/login/login.php" class="hrefBox"></a></div></td> <!--클래스넷-->
+			<td><div id="button05"><a target="_blank" href="https://home.hongik.ac.kr/login/login.php" class="hrefBox"></a></div></td> <!--학생회-->
 		</tr>
 	</table>
 	</div>
