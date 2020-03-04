@@ -45,6 +45,12 @@ window.onload =function () {
 <table>
 	<tr><td>
 	<div id = 'coin-slider'>
+		<a href="">
+                <img src="templates/community/upload/R_kim.jpg" style="width: 600px; height: 400px;">
+                <span>
+                        소프트웨어엔지니어링진흥협회장(미래부산하) 김영철 교수님
+                </span>
+                <a>
                 <a href="">
                 <img src="templates/community/upload/2019_ICT_BlockChain2.jpg" style="width: 600px; height: 400px;">
                 <span>
