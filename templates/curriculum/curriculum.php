@@ -75,12 +75,10 @@
           <td align="center">&nbsp;</td>
           <td align="center">-</td>
           <td align="center">-</td>
-          <td rowspan="17" align="left" valign="middle"><p>▶ 컴퓨터정보통신학개론(핵심교양)<br>
-		<font style="font-size:11px">학기변경(1 → 2)</font><br><br>
-		<font style="font-size:11px">▶ 대학생활세미나</font><br>
-    <font style="font-size:11px">부학기 삭제 (1학기만)</font><br><br>
-    <font style="font-size:11px">▶ 대학화학실험(1)</font><br>
-    <font style="font-size:11px">부학기 삭제 (1학기만)</font></td>
+          <td rowspan="17" align="left" valign="middle"><p>▶대학화학실험(1)<br>
+		<font style="font-size:11px">:부학기(2학기) 추가</font><br><br>
+		<font style="font-size:11px">▶공학컴퓨터입문및실습</font><br>
+    <font style="font-size:11px">:부학기(2학기) 추가</font><br><br>
         </tr>
         <tr>
           <td height="20">영어</td>
@@ -112,7 +110,7 @@
           <td align="center">3</td>
         </tr>
         <tr>
-          <td height="20">역사와 철학(3영역) 동양사의이해</td>
+          <td height="20">역사와 문화(3)영역  동양사의이해</td>
 		  <td align="center">&nbsp;</td>
           <td align="center">-</td>
           <td align="center">-</td>
@@ -183,9 +181,9 @@
           <td align="center">012109</td>
           <td align="center">1</td>
           <td align="center">2</td>
-          <td align="center">&nbsp;</td>
-          <td align="center">-</td>
-          <td align="center">-</td>
+          <td align="center">부학기</td>
+          <td align="center">1</td>
+          <td align="center">2</td>
         </tr>
         <tr>
           <td height="20">대학물리(2)</td>
@@ -211,9 +209,9 @@
           <td align="center">012301</td>
           <td align="center">3</td>
           <td align="center">3</td>
-          <td align="center">&nbsp;</td>
-          <td align="center">-</td>
-          <td align="center">-</td>
+          <td align="center">부학기</td>
+          <td align="center">3</td>
+          <td align="center">3</td>
         </tr>
         <tr>
           <td height="20">C-프로그래밍</td>
@@ -240,8 +238,8 @@
           <td align="center">18</td>
           <td align="center">21</td>
           <td align="center">&nbsp;</td>
-          <td align="center">28</td>
-          <td align="center">29</td>
+          <td align="center">32</td>
+          <td align="center">34</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -295,13 +293,6 @@
           <td align="center">&nbsp;</td>
           <td align="center">-</td>
           <td align="center">-</td>
-          <td rowspan="14" align="left" valign="middle"><p>* 명칭변경 : </p>
-		  <font style="font-size:11px">▶  객체지향프로그래밍 및 실습</font><br>
-		  <font style="font-size:11px">→ 자바프로그래밍 및 실습</font><br><br>
-		  <font style="font-size:11px">▶ 전자회로</font><br>
-		  <font style="font-size:11px">→ 전자시스템</font><br><br>
-		  <font style="font-size:11px">▶ 인터넷공학</font><br>
-                  <font style="font-size:11px">→ 인터넷공학(1)</font><br>
 		  </td>
         </tr>
         <tr>
@@ -507,16 +498,11 @@
           <td align="center">-</td>
           <td align="center">-</td>
           <td align="center">008753</td>
-          <td align="center">3</td>
-          <td align="center">3</td>
-           <td rowspan="14" align="left" valign="middle"><p>▶ 통신시스템실험<br>
-                  <font style="font-size:11px">명칭변경 (→ 통신프로그래밍)</font><br>
-                  <font style="font-size:11px">시수변경 (4 → 3)</font><br><br>
-                  <font style="font-size:11px">▶ 오픈소스소프트웨어</font><br>
-                  <font style="font-size:11px">학점변경 (2 → 3)</font><br><br>
-                  <font style="font-size:11px">▶ 창직프로젝트입문</font><br>
-                  <font style="font-size:11px">명칭변경 (→ 엔지니어 앙트레프레너십)</font></td>
-        </tr>
+          <td align="center">2</td>
+          <td align="center">2</td>
+	  </tr>
+           
+        
          <th height="18" colspan="2" scope="row">MSC</th>
           <td scope="row">수학</td>
           <td>선형대수학</td>
@@ -646,8 +632,8 @@
           <td align="center">22</td>
           <td align="center">23</td>
           <td align="center">&nbsp;</td>
+          <td align="center">21</td>
           <td align="center">22</td>
-          <td align="center">23</td>
           <td>&nbsp;</td>
         </tr>
         <tr>
@@ -702,14 +688,9 @@
           <td align="center">-</td>
           <td align="center">-</td>
           <td rowspan="11" align="left" valign="middle">
-		  <font style="font-size:11px">▶ 종합설계(1)</font><br>
-      <font style="font-size:11px">학점변경 (4 → 3)</font><br>
-      <font style="font-size:11px">시수변경 (4 → 3)</font><br><br>
-		  <font style="font-size:11px">▶ 분산시스템프로그래밍</font><br>
-      <font style="font-size:11px">명칭변경 (→ 블록체인개론)</font><br>
-      <font style="font-size:11px">시수변경 (4 → 3)</font><br><br>
-      <font style="font-size:11px">▶ 졸업논문(002748)</font><br>
-      <font style="font-size:11px">소프트웨어융합학과 개설과목으로 신설 예정 (2021년)</font></td>
+
+		  <font style="font-size:11px">▶졸업논문(002748) : 소프트웨어융합과 개설과목으로 신설 예정(2021년)</font><br>
+      
 		  </td>
         </tr>
         <tr>
@@ -808,13 +789,23 @@
           <td align="center">3</td>
           <td align="center">3</td>
         </tr>
+	<tr> 
+	  <th colspan="2" rowspan="1" scope="row"><p align="center">일반 선택</p>
+	  <td height="20">졸업논문</td>
+	  <td align="center">002742</td>
+	  <td align="center">3</td>
+	  <td align="center">-</td>
+	  <td align="center">02742</td>
+	  <td align="center">3</td>
+	  <td align="center">-</td>
+	  </tr>
         <tr>
           <th height="20" colspan="3" scope="row">개설학점계</th>
           <td align="center">&nbsp;</td>
-          <td align="center">21</td>
+          <td align="center">24</td>
           <td align="center">22</td>
           <td align="center">&nbsp;</td>
-          <td align="center">18</td>
+          <td align="center">21</td>
           <td align="center">19</td>
           <td>&nbsp;</td>
         </tr>

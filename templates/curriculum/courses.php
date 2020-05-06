@@ -70,7 +70,7 @@
                                                                         <td>알고리즘및실습 <br>(구알고리즘)</td>
                                                                         <td><div align="center">전필</div></td>
                                                                         <td><div align="center">1</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
 
                                                                 </tr>
@@ -78,7 +78,7 @@
                                                                         <td>기초컴퓨터정보통신실험(디지털)</td>
                                                                         <td><div align="center">전필</div></td>
                                                                         <td><div align="center">1</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
                                                                 </tr>
                                                                 <tr>
@@ -99,14 +99,14 @@
                                                                         <td>디자인패턴프로그래밍 및 실습<br></td>
                                                                         <td><div align="center">전선</div></td>
                                                                         <td><div align="center">2</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
                                                                 </tr>
                                                                 <tr>
                                                                         <td>네트워크실험</td>
                                                                         <td><div align="center">전선</div></td>
                                                                         <td><div align="center">1</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
                                                                 </tr>
                                                                 <tr>
@@ -119,35 +119,35 @@
                                                                         <td>소프트웨어공학</td>
                                                                         <td><div align="center">전선 </div></td>
                                                                         <td><div align="center">1</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
                                                                 </tr>
                                                                 <tr>
                                                                         <td>컴퓨터보안</td>
                                                                         <td><div align="center">전선</div></td>
                                                                         <td><div align="center">1</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
                                                                 </tr>
                                                                 <tr>
                                                                         <td>데이타베이스및실습</td>
                                                                         <td><div align="center">전선</div></td>
                                                                         <td><div align="center">1</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
                                                                 </tr>
                                                                 <tr>
                                                                         <td>통신시스템실험<br>(구정보통신실험)</td>
                                                                         <td><div align="center">전선</div></td>
                                                                         <td><div align="center">1</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
                                                                 </tr>
                                                                 <tr>
                                                                         <td>오픈소스소프트웨어</td>
                                                                         <td><div align="center">전선</div></td>
                                                                         <td><div align="center">1</div></td>
-                                                                        <td><div align="center">기초설계</div></td>
+                                                                        <td><div align="center">요소설계</div></td>
 
                                                                 </tr>
             </table>

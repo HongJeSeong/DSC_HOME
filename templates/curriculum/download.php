@@ -1,5 +1,5 @@
 <?
-$filename = "rules_2018.hwp";
+$filename = "2020_rules.hwp";
 $file = "../../assets/files/".$filename;  
 
 if (preg_match("MSIE", $_SERVER['HTTP_USER_AGENT'])) { 

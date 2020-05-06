@@ -70,14 +70,14 @@
 
 			  <table width="609" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:365px;">
               <tbody><tr>
-                <td width="96" rowspan="4" style="border-left:1px solid #e5e5e5;"><img src="img/Assistant_Parkeulyong.jpg" width="99" height="115"></td>
+                <td width="96" rowspan="4" style="border-left:1px solid #e5e5e5;"><img src="img/Assistant_seoyoungOh.jpg" width="99" height="115"></td>
                 <td width="96"> 직책</td>
                 <td height="30">실습조교</td>
               </tr>
               
               <tr>
                 <td>이름</td>
-                <td height="25">박을용</td>
+                <td height="25">오서영</td>
               </tr>
               <tr>
                 <td>근무처</td>
@@ -85,7 +85,7 @@
               </tr>
               <tr>
                 <td>이메일</td>
-                <td height="12"><a href="mailto:hatsukoi1307@hongik.ac.kr">hatsukoi1307@hongik.ac.kr</a></td>
+                <td height="12"><a href="mailto:hatsukoi1307@hongik.ac.kr">ohsy1040@hongik.ac.kr</a></td>
               </tr>
 			  </tbody></table>
 

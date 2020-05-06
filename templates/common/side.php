@@ -109,6 +109,12 @@ class Side {
                                                                         <td class="side-menu-right">></td>
                                                                         </a>
                                                                 </tr>
+								<tr id="side-menu-item-h" class="side-menu-item" onclick="document.location = \'/home/templates/curriculum/download_curriculum.php\';">
+                                                                        <td class="side-menu-left"></td>
+                                                                        <td class="side-menu-middle">교육과정(DownLink)</td>
+                                                                        <td class="side-menu-right">></td>
+                                                                        </a>
+                                                                </tr>
 
 							</table>	
 						</div>';
